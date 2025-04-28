@@ -52,11 +52,7 @@
     },
     "containersOptions": {
         "0": {
-            "contentHeight": 247,
-            "contentMaximized": true
-        },
-        "1": {
-            "contentHeight": 233,
+            "contentHeight": 371,
             "contentMaximized": true
         }
     },
@@ -94,7 +90,7 @@
         "contentMaximized": true
     },
     "npcTradeOptions": {
-        "allowLargeTradesWithoutWarning": false,
+        "allowLargeTradesWithoutWarning": true,
         "allowSellingEquippedItems": false,
         "contentHeight": 496,
         "contentMaximized": true,
@@ -140,10 +136,6 @@
         "openWidgetsOrderPerSidebar": [
             [
                 {
-                    "instance": 1,
-                    "type": "container"
-                },
-                {
                     "instance": 0,
                     "type": "container"
                 }
@@ -153,10 +145,10 @@
                     "type": "questTracker"
                 },
                 {
-                    "type": "playerGuide"
+                    "type": "analyticsSelector"
                 },
                 {
-                    "type": "analyticsSelector"
+                    "type": "playerGuide"
                 }
             ],
             [

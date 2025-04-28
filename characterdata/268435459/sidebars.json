@@ -51,6 +51,10 @@
         "sortOrder": "ascending"
     },
     "containersOptions": {
+        "0": {
+            "contentHeight": 65,
+            "contentMaximized": true
+        }
     },
     "damageInputAnalyserWidgetOptions": {
         "contentHeight": 0,
@@ -134,6 +138,10 @@
                 {
                     "instance": 0,
                     "type": "battleList"
+                },
+                {
+                    "instance": 0,
+                    "type": "container"
                 }
             ],
             [

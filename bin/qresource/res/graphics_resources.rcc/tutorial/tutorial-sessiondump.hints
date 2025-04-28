@@ -1,0 +1,350 @@
+{
+  "actions": {
+    "0": [
+      {
+        "type": "TUTORIAL_PROGRESS",
+        "tutorialprogress": "TutorialStart"
+      },
+      {
+        "type": "SKIP_TO",
+        "skiptotimestamp": 0
+      },
+      {
+        "skiptotimestamp": 146,
+        "type": "SKIP_TO"
+      }
+    ],
+    "146": [
+      {
+        "type": "SWITCH_CHANNEL",
+        "channelid": 131070
+      },
+      {
+        "conditiondata": {
+          "coordinate": {
+            "x": 32058,
+            "y": 31848,
+            "z": 13
+          },
+          "texthint": {
+            "text": "tutorial_click_to_walk_hint",
+            "textanchor": "bottomCenter",
+            "border": false
+          }
+        },
+        "conditiontype": "AUTOWALK",
+        "type": "CONDITION"
+      },
+      {
+        "type": "TUTORIAL_PROGRESS",
+        "tutorialprogress": "ClickToWalk"
+      }
+    ],
+    "5096": [
+      {
+        "conditiondata": {
+          "amount": 1,
+          "destination": {
+            "x": 65535,
+            "y": 6,
+            "z": 0
+          },
+          "objecttypeid": 3267,
+          "source": {
+            "stackposition": 1,
+            "x": 32063,
+            "y": 31849,
+            "z": 13
+          },
+          "destinationtexthint": {
+            "text": "tutorial_take_weapon_hint",
+            "textanchor": "topCenter"
+          }
+        },
+        "conditiontype": "MOVE",
+        "type": "CONDITION"
+      },
+      {
+        "type": "TUTORIAL_PROGRESS",
+        "tutorialprogress": "TakeWeapon"
+      }
+    ],
+    "8747": [
+      {
+        "conditiondata": {
+          "creatureid": 1073743805,
+          "texthint": {
+            "text": "tutorial_attack_monster_hint",
+            "textanchor": "bottomCenter",
+            "border": false
+          },
+          "destinationtexthint": {
+            "text": "tutorial_attack_monster_battlelist_hint",
+            "textanchor": "bottomCenter",
+            "border": true
+          }
+        },
+        "conditiontype": "ATTACK",
+        "type": "CONDITION"
+      },
+      {
+        "type": "TUTORIAL_PROGRESS",
+        "tutorialprogress": "AttackMonster"
+      }
+    ],
+    "13196": [
+      {
+        "conditiondata": {
+          "actionbarid": 1,
+          "actionbuttonid": 3,
+          "texthint": {
+            "text": "tutorial_cast_spell_hint",
+            "textanchor": "topLeft"
+          }
+        },
+        "conditiontype": "ACTION_BUTTON_TRIGGERED",
+        "type": "CONDITION"
+      },
+      {
+        "type": "TUTORIAL_PROGRESS",
+        "tutorialprogress": "CastSpell"
+      }
+    ],
+    "19847": [
+      {
+        "conditiondata": {
+          "actionbarid": 1,
+          "actionbuttonid": 1,
+          "texthint": {
+            "text": "tutorial_use_potion_hint",
+            "textanchor": "topLeft"
+          }
+        },
+        "conditiontype": "ACTION_BUTTON_TRIGGERED",
+        "type": "CONDITION"
+      },
+      {
+        "type": "TUTORIAL_PROGRESS",
+        "tutorialprogress": "UsePotion"
+      }
+    ],
+    "23096": [
+      {
+        "conditiondata": {
+          "coordinate": {
+            "stackposition": 4,
+            "x": 32079,
+            "y": 31844,
+            "z": 13
+          },
+          "usetypeid": 20338,
+          "texthint": {
+            "text": "tutorial_open_monster_hint",
+            "textanchor": "topCenter",
+            "border": false
+          }
+        },
+        "conditiontype": "OPEN_IN_NEW_WINDOW",
+        "type": "CONDITION"
+      },
+      {
+        "type": "TUTORIAL_PROGRESS",
+        "tutorialprogress": "OpenMonster"
+      }
+    ],
+    "23697": [
+      {
+        "conditiondata": {
+          "coordinate": {
+            "x": 65535,
+            "y": 3,
+            "z": 0
+          },
+          "usetypeid": 2854,
+          "texthint": {
+            "text": "tutorial_open_container_hint",
+            "textanchor": "topRight"
+          }
+        },
+        "conditiontype": "OPEN_IN_NEW_WINDOW",
+        "type": "CONDITION"
+      },
+      {
+        "type": "TUTORIAL_PROGRESS",
+        "tutorialprogress": "OpenContainer"
+      }
+    ],
+    "23997": [
+      {
+        "conditiondata": {
+          "amount": 3,
+          "objecttypeid": 3031,
+          "source": {
+            "x": 65535,
+            "y": 64,
+            "z": 0
+          },
+          "destination": {
+            "x": 65535,
+            "y": 65,
+            "z": 1
+          },
+          "texthint": {
+            "text": "tutorial_loot_monster_hint",
+            "textanchor": "topCenter"
+          },
+          "destinationtexthint": {
+            "text": "",
+            "textanchor": "bottomCenter",
+            "border": true
+          }
+        },
+        "conditiontype": "MOVE",
+        "type": "CONDITION"
+      },
+      {
+        "type": "TUTORIAL_PROGRESS",
+        "tutorialprogress": "LootMonster"
+      }
+    ],
+    "24096": [
+      {
+        "conditiondata": {
+          "creatureid": 1073741931,
+          "texthint": {
+            "text": "tutorial_greet_npc_hint",
+            "textanchor": "bottomCenter",
+            "border": false
+          },
+          "destinationtexthint": {
+            "text": "tutorial_greet_npc_battlelist_hint",
+            "textanchor": "bottomCenter",
+            "border": true
+          }
+        },
+        "conditiontype": "GREET",
+        "type": "CONDITION"
+      },
+      {
+        "type": "TUTORIAL_PROGRESS",
+        "tutorialprogress": "GreetNPC"
+      }
+    ],
+    "25146": [
+      {
+        "conditiondata": {
+          "coordinate": {
+            "x": 65535,
+            "y": 65,
+            "z": 0
+          },
+          "usetypeid": 3577,
+          "texthint": {
+            "text": "tutorial_eat_hint",
+            "textanchor": "topRight"
+          }
+        },
+        "conditiontype": "USE",
+        "type": "CONDITION"
+      },
+      {
+        "type": "TUTORIAL_PROGRESS",
+        "tutorialprogress": "Eat"
+      }
+    ],
+    "25246": [
+      {
+        "conditiondata": {
+          "text": "ready",
+          "texthint": {
+            "text": "tutorial_talk_with_keyword_hint",
+            "textanchor": "topLeft"
+          }
+        },
+        "conditiontype": "TALK",
+        "type": "CONDITION"
+      },
+      {
+        "type": "TUTORIAL_PROGRESS",
+        "tutorialprogress": "TalkWithKeyword"
+      }
+    ],
+    "25346": [
+      {
+        "conditiondata": {
+          "coordinate": {
+            "stackposition": 5,
+            "x": 32080,
+            "y": 31843,
+            "z": 13
+          },
+          "usetypeid": 9116,
+          "texthint": {
+            "text": "tutorial_use_ladder_hint",
+            "textanchor": "bottomLeft",
+            "border": false
+          }
+        },
+        "conditiontype": "USE",
+        "type": "CONDITION"
+      },
+      {
+        "type": "TUTORIAL_PROGRESS",
+        "tutorialprogress": "UseLadder"
+      }
+    ],
+    "26647": [
+      {
+        "conditiondata": {
+          "coordinate": {
+            "x": 65535,
+            "y": 65,
+            "z": 0
+          },
+          "multiusetarget": {
+            "stackposition": 0,
+            "x": 32080,
+            "y": 31838,
+            "z": 11
+          },
+          "objecttypeid": 3003,
+          "targettypeid": 21501,
+          "texthint": {
+            "text": "tutorial_use_with_hint",
+            "textanchor": "leftBottom"
+          }
+        },
+        "conditiontype": "USE_WITH",
+        "type": "CONDITION"
+      },
+      {
+        "type": "TUTORIAL_PROGRESS",
+        "tutorialprogress": "UseRopespot"
+      },
+      {
+        "type": "TUTORIAL_PROGRESS",
+        "tutorialprogress": "TutorialEnd"
+      }
+    ]
+  },
+  "outfit": {
+    "female": {
+      "addons": 0,
+      "detail": 115,
+      "head": 115,
+      "id": 137,
+      "legs": 39,
+      "torso": 113
+    },
+    "male": {
+      "addons": 0,
+      "detail": 115,
+      "head": 115,
+      "id": 129,
+      "legs": 39,
+      "torso": 113
+    }
+  },
+  "sessiondump": "tutorial-sessiondump.dmp",
+  "sessiondump-duration": 56860
+}

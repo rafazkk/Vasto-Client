@@ -1,5 +1,16 @@
 {
     "eventlist": [
+        {
+            "colordark": "#235c00",
+            "colorlight": "#2d7400",
+            "description": "VastoBr Double EXP 100%",
+            "displaypriority": 6,
+            "enddate": 1743303600,
+            "isseasonal": false,
+            "name": "Double EXP",
+            "specialevent": 0,
+            "startdate": 1741143600
+        }
     ],
-    "lastupdatetimestamp": 1741620613
+    "lastupdatetimestamp": 1745804708
 }

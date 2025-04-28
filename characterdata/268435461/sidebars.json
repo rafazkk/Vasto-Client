@@ -8,6 +8,7 @@
             "battleListFilters": [
             ],
             "battleListSortOrder": [
+                "byAgeAscending",
                 "byAgeAscending"
             ],
             "contentHeight": 38,
@@ -21,6 +22,7 @@
             "battleListFilters": [
             ],
             "battleListSortOrder": [
+                "byAgeAscending",
                 "byAgeAscending"
             ],
             "contentHeight": 38,

@@ -40,7 +40,7 @@
         "sortOrder": "ascending"
     },
     "bossTrackerWidgetOptions": {
-        "contentHeight": 0,
+        "contentHeight": 480,
         "contentMaximized": true,
         "sortKey": "remainingCooldown"
     },
@@ -51,8 +51,12 @@
         "sortOrder": "ascending"
     },
     "containersOptions": {
+        "0": {
+            "contentHeight": 200,
+            "contentMaximized": true
+        },
         "1": {
-            "contentHeight": 65,
+            "contentHeight": 84,
             "contentMaximized": true
         }
     },
@@ -90,9 +94,9 @@
         "contentMaximized": true
     },
     "npcTradeOptions": {
-        "allowLargeTradesWithoutWarning": false,
+        "allowLargeTradesWithoutWarning": true,
         "allowSellingEquippedItems": false,
-        "contentHeight": 0,
+        "contentHeight": 223,
         "contentMaximized": true,
         "ignoreCapacityWhenBuying": false,
         "purchaseShoppingBagWhenBuying": false,
@@ -139,7 +143,7 @@
                     "type": "skills"
                 },
                 {
-                    "instance": 1,
+                    "instance": 0,
                     "type": "container"
                 }
             ],
@@ -149,12 +153,19 @@
                 },
                 {
                     "type": "questTracker"
+                },
+                {
+                    "type": "bossCooldowns"
+                },
+                {
+                    "instance": 1,
+                    "type": "container"
                 }
             ]
         ]
     },
     "skillsWidgetOptions": {
-        "contentHeight": 200,
+        "contentHeight": 245,
         "contentMaximized": true,
         "invisibleProgressBars": [
         ]
@@ -184,7 +195,7 @@
         "contentMaximized": true
     },
     "vipWidgetOptions": {
-        "contentHeight": 0,
+        "contentHeight": 38,
         "contentMaximized": true,
         "hideOfflineVips": false,
         "showGrouped": false,

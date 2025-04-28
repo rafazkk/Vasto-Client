@@ -1,0 +1,1868 @@
+Found file: graphics_resources.rcc
+Create folder: ./qresource/res/graphics_resources.rcc/
+Found resource folder: animations
+Create folder: ./qresource/res/graphics_resources.rcc/animations/
+Found resource file: :/animations/animation-dragonheader.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/animations/animation-dragonheader.png
+Found resource file: :/animations/animation-purchasecomplete-idle.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/animations/animation-purchasecomplete-idle.png
+Found resource file: :/animations/animation-purchasecomplete-pressed.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/animations/animation-purchasecomplete-pressed.png
+Found resource file: :/animations/button-store-animation.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/animations/button-store-animation.png
+Found resource folder: css
+Create folder: ./qresource/res/graphics_resources.rcc/css/
+Found resource file: :/css/news.css
+Resource restored to file: ./qresource/res/graphics_resources.rcc/css/news.css
+Found resource folder: cursors
+Create folder: ./qresource/res/graphics_resources.rcc/cursors/
+Found resource file: :/cursors/cursor-attack.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/cursors/cursor-attack.png
+Found resource file: :/cursors/cursor-crosshair-reject.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/cursors/cursor-crosshair-reject.png
+Found resource file: :/cursors/cursor-crosshair.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/cursors/cursor-crosshair.png
+Found resource file: :/cursors/cursor-default-reject.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/cursors/cursor-default-reject.png
+Found resource file: :/cursors/cursor-default.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/cursors/cursor-default.png
+Found resource file: :/cursors/cursor-lenshelp.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/cursors/cursor-lenshelp.png
+Found resource file: :/cursors/cursor-look.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/cursors/cursor-look.png
+Found resource file: :/cursors/cursor-open.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/cursors/cursor-open.png
+Found resource file: :/cursors/cursor-pointinghand.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/cursors/cursor-pointinghand.png
+Found resource file: :/cursors/cursor-quick-loot.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/cursors/cursor-quick-loot.png
+Found resource file: :/cursors/cursor-reject.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/cursors/cursor-reject.png
+Found resource file: :/cursors/cursor-resize-horizontal.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/cursors/cursor-resize-horizontal.png
+Found resource file: :/cursors/cursor-resize-vertical.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/cursors/cursor-resize-vertical.png
+Found resource file: :/cursors/cursor-talk.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/cursors/cursor-talk.png
+Found resource file: :/cursors/cursor-use.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/cursors/cursor-use.png
+Found resource file: :/cursors/cursor-walk.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/cursors/cursor-walk.png
+Found resource file: :/cursors/highlight-baseplate.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/cursors/highlight-baseplate.png
+Found resource folder: data
+Create folder: ./qresource/res/graphics_resources.rcc/data/
+Found resource file: :/data/ImportantBalancingMessageData.json
+Resource restored to file: ./qresource/res/graphics_resources.rcc/data/ImportantBalancingMessageData.json
+Found resource folder: fonts
+Create folder: ./qresource/res/graphics_resources.rcc/fonts/
+Found resource file: :/fonts/Verdana10px.fnt
+Resource restored to file: ./qresource/res/graphics_resources.rcc/fonts/Verdana10px.fnt
+Found resource file: :/fonts/Verdana10px.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/fonts/Verdana10px.png
+Found resource folder: images
+Create folder: ./qresource/res/graphics_resources.rcc/images/
+Found resource file: :/images/1pixel-down-frame.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/1pixel-down-frame.png
+Found resource file: :/images/1pixel-up-frame.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/1pixel-up-frame.png
+Found resource file: :/images/2pixel-up-frame-borderimage-dark-upside-down.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/2pixel-up-frame-borderimage-dark-upside-down.png
+Found resource file: :/images/2pixel-up-frame-borderimage-dark.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/2pixel-up-frame-borderimage-dark.png
+Found resource file: :/images/2pixel-up-frame-borderimage-upside-down.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/2pixel-up-frame-borderimage-upside-down.png
+Found resource file: :/images/2pixel-up-frame-borderimage.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/2pixel-up-frame-borderimage.png
+Found resource file: :/images/2pixel-up-header-smoother.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/2pixel-up-header-smoother.png
+Found resource file: :/images/3pixel-frame-borderimage.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/3pixel-frame-borderimage.png
+Found resource file: :/images/automap-button-cyclopediamap-down.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/automap-button-cyclopediamap-down.png
+Found resource file: :/images/automap-button-cyclopediamap-up.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/automap-button-cyclopediamap-up.png
+Found resource file: :/images/automap-button-movedown-down.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/automap-button-movedown-down.png
+Found resource file: :/images/automap-button-movedown-up.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/automap-button-movedown-up.png
+Found resource file: :/images/automap-button-moveup-down.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/automap-button-moveup-down.png
+Found resource file: :/images/automap-button-moveup-up.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/automap-button-moveup-up.png
+Found resource file: :/images/automap-button-zoomin-down.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/automap-button-zoomin-down.png
+Found resource file: :/images/automap-button-zoomin-up.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/automap-button-zoomin-up.png
+Found resource file: :/images/automap-button-zoomout-down.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/automap-button-zoomout-down.png
+Found resource file: :/images/automap-button-zoomout-up.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/automap-button-zoomout-up.png
+Found resource file: :/images/automap-centre.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/automap-centre.png
+Found resource file: :/images/automap-crosshair-dark.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/automap-crosshair-dark.png
+Found resource file: :/images/automap-crosshair-light.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/automap-crosshair-light.png
+Found resource file: :/images/automap-indicator-maplayers.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/automap-indicator-maplayers.png
+Found resource file: :/images/automap-indicator-slider-left.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/automap-indicator-slider-left.png
+Found resource file: :/images/automap-indicator-slider.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/automap-indicator-slider.png
+Found resource file: :/images/automap-rose-e.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/automap-rose-e.png
+Found resource file: :/images/automap-rose-idle.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/automap-rose-idle.png
+Found resource file: :/images/automap-rose-n.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/automap-rose-n.png
+Found resource file: :/images/automap-rose-ne.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/automap-rose-ne.png
+Found resource file: :/images/automap-rose-nw.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/automap-rose-nw.png
+Found resource file: :/images/automap-rose-s.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/automap-rose-s.png
+Found resource file: :/images/automap-rose-se.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/automap-rose-se.png
+Found resource file: :/images/automap-rose-sw.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/automap-rose-sw.png
+Found resource file: :/images/automap-rose-w.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/automap-rose-w.png
+Found resource file: :/images/backdrop-dark-grey.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/backdrop-dark-grey.png
+Found resource file: :/images/background-dark.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/background-dark.png
+Found resource file: :/images/background.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/background.png
+Found resource file: :/images/banneraccountdatainvalid.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/banneraccountdatainvalid.png
+Found resource file: :/images/banneraccountdatavalid.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/banneraccountdatavalid.png
+Found resource file: :/images/banneralldatainvalid.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/banneralldatainvalid.png
+Found resource file: :/images/banneralldatavalid.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/banneralldatavalid.png
+Found resource file: :/images/bannercharacterdatainvalid.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/bannercharacterdatainvalid.png
+Found resource file: :/images/bannercharacterdatavalid.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/bannercharacterdatavalid.png
+Found resource file: :/images/bannerleft.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/bannerleft.png
+Found resource file: :/images/bannerright.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/bannerright.png
+Found resource file: :/images/boostedbosspodestal.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/boostedbosspodestal.png
+Found resource file: :/images/borderimage-statusbar-left.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/borderimage-statusbar-left.png
+Found resource file: :/images/borderimage-statusbar-right.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/borderimage-statusbar-right.png
+Found resource file: :/images/borderimage-statusbar-top.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/borderimage-statusbar-top.png
+Found resource file: :/images/button-analyticsselector-down.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/button-analyticsselector-down.png
+Found resource file: :/images/button-analyticsselector-up.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/button-analyticsselector-up.png
+Found resource file: :/images/button-arrow-left-down.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/button-arrow-left-down.png
+Found resource file: :/images/button-arrow-left-up.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/button-arrow-left-up.png
+Found resource file: :/images/button-arrow-right-down.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/button-arrow-right-down.png
+Found resource file: :/images/button-arrow-right-up.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/button-arrow-right-up.png
+Found resource file: :/images/button-battlelist-down.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/button-battlelist-down.png
+Found resource file: :/images/button-battlelist-party-up.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/button-battlelist-party-up.png
+Found resource file: :/images/button-battlelist-up.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/button-battlelist-up.png
+Found resource file: :/images/button-bossslots-down.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/button-bossslots-down.png
+Found resource file: :/images/button-bossslots-up.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/button-bossslots-up.png
+Found resource file: :/images/button-bosstiary-down.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/button-bosstiary-down.png
+Found resource file: :/images/button-bosstiary-up.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/button-bosstiary-up.png
+Found resource file: :/images/button-clear-20x20-down.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/button-clear-20x20-down.png
+Found resource file: :/images/button-clear-20x20-up.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/button-clear-20x20-up.png
+Found resource file: :/images/button-combat-balanced-down.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/button-combat-balanced-down.png
+Found resource file: :/images/button-combat-balanced-up.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/button-combat-balanced-up.png
+Found resource file: :/images/button-combat-defensive-down.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/button-combat-defensive-down.png
+Found resource file: :/images/button-combat-defensive-up.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/button-combat-defensive-up.png
+Found resource file: :/images/button-combat-dovemode-down.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/button-combat-dovemode-down.png
+Found resource file: :/images/button-combat-dovemode-up.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/button-combat-dovemode-up.png
+Found resource file: :/images/button-combat-offensive-down.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/button-combat-offensive-down.png
+Found resource file: :/images/button-combat-offensive-up.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/button-combat-offensive-up.png
+Found resource file: :/images/button-combat-pvp-small-down.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/button-combat-pvp-small-down.png
+Found resource file: :/images/button-combat-pvp-small-up.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/button-combat-pvp-small-up.png
+Found resource file: :/images/button-combat-redfistmode-down.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/button-combat-redfistmode-down.png
+Found resource file: :/images/button-combat-redfistmode-up.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/button-combat-redfistmode-up.png
+Found resource file: :/images/button-combat-whitehandmode-down.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/button-combat-whitehandmode-down.png
+Found resource file: :/images/button-combat-whitehandmode-up.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/button-combat-whitehandmode-up.png
+Found resource file: :/images/button-combat-yellowhandmode-down.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/button-combat-yellowhandmode-down.png
+Found resource file: :/images/button-combat-yellowhandmode-up.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/button-combat-yellowhandmode-up.png
+Found resource file: :/images/button-copytoclipboard-down.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/button-copytoclipboard-down.png
+Found resource file: :/images/button-copytoclipboard-up.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/button-copytoclipboard-up.png
+Found resource file: :/images/button-cyclopedia-down.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/button-cyclopedia-down.png
+Found resource file: :/images/button-cyclopedia-up.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/button-cyclopedia-up.png
+Found resource file: :/images/button-exaltation-forge-down.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/button-exaltation-forge-down.png
+Found resource file: :/images/button-exaltation-forge-up.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/button-exaltation-forge-up.png
+Found resource file: :/images/button-expert-disabled.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/button-expert-disabled.png
+Found resource file: :/images/button-expert-down.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/button-expert-down.png
+Found resource file: :/images/button-expert-small-disabled.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/button-expert-small-disabled.png
+Found resource file: :/images/button-expert-small-down.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/button-expert-small-down.png
+Found resource file: :/images/button-expert-small-up.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/button-expert-small-up.png
+Found resource file: :/images/button-expert-up.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/button-expert-up.png
+Found resource file: :/images/button-featured-offers-left-highlight.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/button-featured-offers-left-highlight.png
+Found resource file: :/images/button-featured-offers-left.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/button-featured-offers-left.png
+Found resource file: :/images/button-featured-offers-right-highlight.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/button-featured-offers-right-highlight.png
+Found resource file: :/images/button-featured-offers-right.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/button-featured-offers-right.png
+Found resource file: :/images/button-follow-down.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/button-follow-down.png
+Found resource file: :/images/button-follow-up.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/button-follow-up.png
+Found resource file: :/images/button-genderfemale-down.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/button-genderfemale-down.png
+Found resource file: :/images/button-genderfemale-up.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/button-genderfemale-up.png
+Found resource file: :/images/button-gendermale-down.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/button-gendermale-down.png
+Found resource file: :/images/button-gendermale-up.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/button-gendermale-up.png
+Found resource file: :/images/button-highscores-down.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/button-highscores-down.png
+Found resource file: :/images/button-highscores-up.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/button-highscores-up.png
+Found resource file: :/images/button-leaderboard-down.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/button-leaderboard-down.png
+Found resource file: :/images/button-leaderboard-up.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/button-leaderboard-up.png
+Found resource file: :/images/button-logout-down.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/button-logout-down.png
+Found resource file: :/images/button-logout-up.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/button-logout-up.png
+Found resource file: :/images/button-news-down.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/button-news-down.png
+Found resource file: :/images/button-news-up.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/button-news-up.png
+Found resource file: :/images/button-options-down.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/button-options-down.png
+Found resource file: :/images/button-options-up.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/button-options-up.png
+Found resource file: :/images/button-preywidget-down.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/button-preywidget-down.png
+Found resource file: :/images/button-preywidget-up.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/button-preywidget-up.png
+Found resource file: :/images/button-questlog-down.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/button-questlog-down.png
+Found resource file: :/images/button-questlog-up.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/button-questlog-up.png
+Found resource file: :/images/button-rewardwall-down.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/button-rewardwall-down.png
+Found resource file: :/images/button-rewardwall-up.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/button-rewardwall-up.png
+Found resource file: :/images/button-rotate-left-down.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/button-rotate-left-down.png
+Found resource file: :/images/button-rotate-left-up.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/button-rotate-left-up.png
+Found resource file: :/images/button-rotate-right-down.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/button-rotate-right-down.png
+Found resource file: :/images/button-rotate-right-up.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/button-rotate-right-up.png
+Found resource file: :/images/button-select-20x20-down.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/button-select-20x20-down.png
+Found resource file: :/images/button-select-20x20-up.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/button-select-20x20-up.png
+Found resource file: :/images/button-sidebar-left-add-disabled.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/button-sidebar-left-add-disabled.png
+Found resource file: :/images/button-sidebar-left-add-down.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/button-sidebar-left-add-down.png
+Found resource file: :/images/button-sidebar-left-add-up.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/button-sidebar-left-add-up.png
+Found resource file: :/images/button-sidebar-left-remove-disabled.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/button-sidebar-left-remove-disabled.png
+Found resource file: :/images/button-sidebar-left-remove-down.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/button-sidebar-left-remove-down.png
+Found resource file: :/images/button-sidebar-left-remove-up.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/button-sidebar-left-remove-up.png
+Found resource file: :/images/button-sidebar-right-add-disabled.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/button-sidebar-right-add-disabled.png
+Found resource file: :/images/button-sidebar-right-add-down.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/button-sidebar-right-add-down.png
+Found resource file: :/images/button-sidebar-right-add-up.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/button-sidebar-right-add-up.png
+Found resource file: :/images/button-sidebar-right-remove-disabled.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/button-sidebar-right-remove-disabled.png
+Found resource file: :/images/button-sidebar-right-remove-down.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/button-sidebar-right-remove-down.png
+Found resource file: :/images/button-sidebar-right-remove-up.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/button-sidebar-right-remove-up.png
+Found resource file: :/images/button-skills-down.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/button-skills-down.png
+Found resource file: :/images/button-skills-up.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/button-skills-up.png
+Found resource file: :/images/button-social-down.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/button-social-down.png
+Found resource file: :/images/button-social-up.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/button-social-up.png
+Found resource file: :/images/button-spelllistwidget-down.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/button-spelllistwidget-down.png
+Found resource file: :/images/button-spelllistwidget-up.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/button-spelllistwidget-up.png
+Found resource file: :/images/button-stand-down.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/button-stand-down.png
+Found resource file: :/images/button-stand-up.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/button-stand-up.png
+Found resource file: :/images/button-store-inbox-down.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/button-store-inbox-down.png
+Found resource file: :/images/button-store-inbox-up.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/button-store-inbox-up.png
+Found resource file: :/images/button-store-new.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/button-store-new.png
+Found resource file: :/images/button-store-sale.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/button-store-sale.png
+Found resource file: :/images/button-store-small-down.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/button-store-small-down.png
+Found resource file: :/images/button-store-small-up.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/button-store-small-up.png
+Found resource file: :/images/button-store-storexp-down.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/button-store-storexp-down.png
+Found resource file: :/images/button-store-storexp-up.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/button-store-storexp-up.png
+Found resource file: :/images/button-storeicon-down.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/button-storeicon-down.png
+Found resource file: :/images/button-storeicon-up.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/button-storeicon-up.png
+Found resource file: :/images/button-storexp-noborder-idle.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/button-storexp-noborder-idle.png
+Found resource file: :/images/button-storexp-noborder-left-idle.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/button-storexp-noborder-left-idle.png
+Found resource file: :/images/button-storexp-noborder-left-pressed.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/button-storexp-noborder-left-pressed.png
+Found resource file: :/images/button-storexp-noborder-pressed.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/button-storexp-noborder-pressed.png
+Found resource file: :/images/button-storexp-noborder-right-idle.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/button-storexp-noborder-right-idle.png
+Found resource file: :/images/button-storexp-noborder-right-pressed.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/button-storexp-noborder-right-pressed.png
+Found resource file: :/images/button-unjustpoints-down.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/button-unjustpoints-down.png
+Found resource file: :/images/button-unjustpoints-up.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/button-unjustpoints-up.png
+Found resource file: :/images/button-viplist-down.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/button-viplist-down.png
+Found resource file: :/images/button-viplist-up.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/button-viplist-up.png
+Found resource file: :/images/button_startplaying_idle.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/button_startplaying_idle.png
+Found resource file: :/images/console-buttonclose-down.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/console-buttonclose-down.png
+Found resource file: :/images/console-buttonclose-up.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/console-buttonclose-up.png
+Found resource file: :/images/console-buttonignore-down.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/console-buttonignore-down.png
+Found resource file: :/images/console-buttonignore-up-flash.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/console-buttonignore-up-flash.png
+Found resource file: :/images/console-buttonignore-up.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/console-buttonignore-up.png
+Found resource file: :/images/console-buttonleft-down.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/console-buttonleft-down.png
+Found resource file: :/images/console-buttonleft-flash-down.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/console-buttonleft-flash-down.png
+Found resource file: :/images/console-buttonleft-flash-up.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/console-buttonleft-flash-up.png
+Found resource file: :/images/console-buttonleft-up.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/console-buttonleft-up.png
+Found resource file: :/images/console-buttonleft-update-down.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/console-buttonleft-update-down.png
+Found resource file: :/images/console-buttonleft-update-up.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/console-buttonleft-update-up.png
+Found resource file: :/images/console-buttonmessages-down.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/console-buttonmessages-down.png
+Found resource file: :/images/console-buttonmessages-up.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/console-buttonmessages-up.png
+Found resource file: :/images/console-buttonnew-down.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/console-buttonnew-down.png
+Found resource file: :/images/console-buttonnew-up.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/console-buttonnew-up.png
+Found resource file: :/images/console-buttonright-down.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/console-buttonright-down.png
+Found resource file: :/images/console-buttonright-flash-down.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/console-buttonright-flash-down.png
+Found resource file: :/images/console-buttonright-flash-up.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/console-buttonright-flash-up.png
+Found resource file: :/images/console-buttonright-up.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/console-buttonright-up.png
+Found resource file: :/images/console-buttonright-update-down.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/console-buttonright-update-down.png
+Found resource file: :/images/console-buttonright-update-up.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/console-buttonright-update-up.png
+Found resource file: :/images/console-tab-active.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/console-tab-active.png
+Found resource file: :/images/console-tab-passive.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/console-tab-passive.png
+Found resource file: :/images/container-browse-left-down.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/container-browse-left-down.png
+Found resource file: :/images/container-browse-left-up.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/container-browse-left-up.png
+Found resource file: :/images/container-browse-right-down.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/container-browse-right-down.png
+Found resource file: :/images/container-browse-right-up.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/container-browse-right-up.png
+Found resource file: :/images/containerslot-border-large.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/containerslot-border-large.png
+Found resource file: :/images/containerslot-coloredges.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/containerslot-coloredges.png
+Found resource file: :/images/containerslot-glowingborders.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/containerslot-glowingborders.png
+Found resource file: :/images/containerslot-goldenborder.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/containerslot-goldenborder.png
+Found resource file: :/images/containerslot.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/containerslot.png
+Found resource file: :/images/context-menu-separator.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/context-menu-separator.png
+Found resource file: :/images/cyclopedia-hunting-session-premium.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/cyclopedia-hunting-session-premium.png
+Found resource file: :/images/ditherpattern.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/ditherpattern.png
+Found resource file: :/images/divider-horizontal.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/divider-horizontal.png
+Found resource file: :/images/edit-list-logo.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/edit-list-logo.png
+Found resource file: :/images/gauge-arrow.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/gauge-arrow.png
+Found resource file: :/images/gauge.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/gauge.png
+Found resource file: :/images/hierarchy-branch.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/hierarchy-branch.png
+Found resource file: :/images/hitpoints-bar-filled.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/hitpoints-bar-filled.png
+Found resource file: :/images/hitpoints-manapoints-bar-border.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/hitpoints-manapoints-bar-border.png
+Found resource file: :/images/hitpoints-symbol.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/hitpoints-symbol.png
+Found resource file: :/images/icon-achievement.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/icon-achievement.png
+Found resource file: :/images/icon-arrow-disabled.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/icon-arrow-disabled.png
+Found resource file: :/images/icon-arrow-downlarge.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/icon-arrow-downlarge.png
+Found resource file: :/images/icon-arrow-rightlarge-filled.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/icon-arrow-rightlarge-filled.png
+Found resource file: :/images/icon-arrow-rightlarge.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/icon-arrow-rightlarge.png
+Found resource file: :/images/icon-arrow.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/icon-arrow.png
+Found resource file: :/images/icon-arrow7x7-down.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/icon-arrow7x7-down.png
+Found resource file: :/images/icon-arrow7x7-right.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/icon-arrow7x7-right.png
+Found resource file: :/images/icon-arrowskip-disabled.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/icon-arrowskip-disabled.png
+Found resource file: :/images/icon-arrowskip.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/icon-arrowskip.png
+Found resource file: :/images/icon-bankaccount.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/icon-bankaccount.png
+Found resource file: :/images/icon-battlelist-party-button.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/icon-battlelist-party-button.png
+Found resource file: :/images/icon-bosstiary-archfoe.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/icon-bosstiary-archfoe.png
+Found resource file: :/images/icon-bosstiary-bane.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/icon-bosstiary-bane.png
+Found resource file: :/images/icon-bosstiary-nemesis.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/icon-bosstiary-nemesis.png
+Found resource file: :/images/icon-boxed.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/icon-boxed.png
+Found resource file: :/images/icon-character-achievement.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/icon-character-achievement.png
+Found resource file: :/images/icon-character-battleresults-recentdeaths.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/icon-character-battleresults-recentdeaths.png
+Found resource file: :/images/icon-character-battleresults-recentpvpkills.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/icon-character-battleresults-recentpvpkills.png
+Found resource file: :/images/icon-character-battleresults.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/icon-character-battleresults.png
+Found resource file: :/images/icon-character-generalstats-combatstats.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/icon-character-generalstats-combatstats.png
+Found resource file: :/images/icon-character-generalstats-overview.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/icon-character-generalstats-overview.png
+Found resource file: :/images/icon-character-generalstats.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/icon-character-generalstats.png
+Found resource file: :/images/icon-character-items.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/icon-character-items.png
+Found resource file: :/images/icon-character-outfitsmounts.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/icon-character-outfitsmounts.png
+Found resource file: :/images/icon-character-store.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/icon-character-store.png
+Found resource file: :/images/icon-character-titles.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/icon-character-titles.png
+Found resource file: :/images/icon-charactertrade.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/icon-charactertrade.png
+Found resource file: :/images/icon-controls.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/icon-controls.png
+Found resource file: :/images/icon-conversion.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/icon-conversion.png
+Found resource file: :/images/icon-cooldown-finished.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/icon-cooldown-finished.png
+Found resource file: :/images/icon-cooldown-running.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/icon-cooldown-running.png
+Found resource file: :/images/icon-currency-dust.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/icon-currency-dust.png
+Found resource file: :/images/icon-currency-exaltedcore.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/icon-currency-exaltedcore.png
+Found resource file: :/images/icon-currency-sliver.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/icon-currency-sliver.png
+Found resource file: :/images/icon-currency-tournamentcoin.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/icon-currency-tournamentcoin.png
+Found resource file: :/images/icon-cyclopedia-bossslots.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/icon-cyclopedia-bossslots.png
+Found resource file: :/images/icon-cyclopedia-bosstiary.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/icon-cyclopedia-bosstiary.png
+Found resource file: :/images/icon-cyclopedia-characterinfo.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/icon-cyclopedia-characterinfo.png
+Found resource file: :/images/icon-cyclopedia-houses.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/icon-cyclopedia-houses.png
+Found resource file: :/images/icon-cyclopedia-iteminfo.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/icon-cyclopedia-iteminfo.png
+Found resource file: :/images/icon-cyclopedia-map.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/icon-cyclopedia-map.png
+Found resource file: :/images/icon-cyclopedia-monsterbonusinfo.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/icon-cyclopedia-monsterbonusinfo.png
+Found resource file: :/images/icon-cyclopedia-monsterinfo.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/icon-cyclopedia-monsterinfo.png
+Found resource file: :/images/icon-daily-reward-joker.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/icon-daily-reward-joker.png
+Found resource file: :/images/icon-dailyrewarddeactivated.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/icon-dailyrewarddeactivated.png
+Found resource file: :/images/icon-dailyrewarddone.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/icon-dailyrewarddone.png
+Found resource file: :/images/icon-dailyrewardready.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/icon-dailyrewardready.png
+Found resource file: :/images/icon-delete.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/icon-delete.png
+Found resource file: :/images/icon-depot.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/icon-depot.png
+Found resource file: :/images/icon-displayresults.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/icon-displayresults.png
+Found resource file: :/images/icon-downarrow-disabled.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/icon-downarrow-disabled.png
+Found resource file: :/images/icon-downarrow.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/icon-downarrow.png
+Found resource file: :/images/icon-downarrowskip-disabled.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/icon-downarrowskip-disabled.png
+Found resource file: :/images/icon-downarrowskip.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/icon-downarrowskip.png
+Found resource file: :/images/icon-edit.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/icon-edit.png
+Found resource file: :/images/icon-equipmentdetails.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/icon-equipmentdetails.png
+Found resource file: :/images/icon-erase-small.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/icon-erase-small.png
+Found resource file: :/images/icon-exclamationmark.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/icon-exclamationmark.png
+Found resource file: :/images/icon-exiva-disabled.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/icon-exiva-disabled.png
+Found resource file: :/images/icon-exiva-flash.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/icon-exiva-flash.png
+Found resource file: :/images/icon-exiva.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/icon-exiva.png
+Found resource file: :/images/icon-fusion.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/icon-fusion.png
+Found resource file: :/images/icon-gender-female.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/icon-gender-female.png
+Found resource file: :/images/icon-gender-male.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/icon-gender-male.png
+Found resource file: :/images/icon-goldcoin.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/icon-goldcoin.png
+Found resource file: :/images/icon-graphics.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/icon-graphics.png
+Found resource file: :/images/icon-guildaccount.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/icon-guildaccount.png
+Found resource file: :/images/icon-help.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/icon-help.png
+Found resource file: :/images/icon-history.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/icon-history.png
+Found resource file: :/images/icon-imminentraid.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/icon-imminentraid.png
+Found resource file: :/images/icon-inbox.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/icon-inbox.png
+Found resource file: :/images/icon-inline-warning.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/icon-inline-warning.png
+Found resource file: :/images/icon-interface.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/icon-interface.png
+Found resource file: :/images/icon-invite.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/icon-invite.png
+Found resource file: :/images/icon-leader.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/icon-leader.png
+Found resource file: :/images/icon-lock-red.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/icon-lock-red.png
+Found resource file: :/images/icon-locked.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/icon-locked.png
+Found resource file: :/images/icon-loot-container.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/icon-loot-container.png
+Found resource file: :/images/icon-map-house-status.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/icon-map-house-status.png
+Found resource file: :/images/icon-map-house.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/icon-map-house.png
+Found resource file: :/images/icon-map-improvedrespawn.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/icon-map-improvedrespawn.png
+Found resource file: :/images/icon-map-npc.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/icon-map-npc.png
+Found resource file: :/images/icon-map-passage-idle.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/icon-map-passage-idle.png
+Found resource file: :/images/icon-map-passage-selected.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/icon-map-passage-selected.png
+Found resource file: :/images/icon-map-player.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/icon-map-player.png
+Found resource file: :/images/icon-map-pointofinterest.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/icon-map-pointofinterest.png
+Found resource file: :/images/icon-marketchest.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/icon-marketchest.png
+Found resource file: :/images/icon-menu.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/icon-menu.png
+Found resource file: :/images/icon-misc.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/icon-misc.png
+Found resource file: :/images/icon-mute-idle.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/icon-mute-idle.png
+Found resource file: :/images/icon-mute-pressed-disabled.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/icon-mute-pressed-disabled.png
+Found resource file: :/images/icon-mute-pressed.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/icon-mute-pressed.png
+Found resource file: :/images/icon-new.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/icon-new.png
+Found resource file: :/images/icon-no.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/icon-no.png
+Found resource file: :/images/icon-normal-mode.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/icon-normal-mode.png
+Found resource file: :/images/icon-options.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/icon-options.png
+Found resource file: :/images/icon-pending.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/icon-pending.png
+Found resource file: :/images/icon-pin.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/icon-pin.png
+Found resource file: :/images/icon-playerdetails.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/icon-playerdetails.png
+Found resource file: :/images/icon-players.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/icon-players.png
+Found resource file: :/images/icon-prey-preycreature.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/icon-prey-preycreature.png
+Found resource file: :/images/icon-prey-preythuntingtask.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/icon-prey-preythuntingtask.png
+Found resource file: :/images/icon-questionmark.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/icon-questionmark.png
+Found resource file: :/images/icon-raid.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/icon-raid.png
+Found resource file: :/images/icon-refresh.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/icon-refresh.png
+Found resource file: :/images/icon-resize-chat.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/icon-resize-chat.png
+Found resource file: :/images/icon-resize-mapwindow-and-chat.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/icon-resize-mapwindow-and-chat.png
+Found resource file: :/images/icon-resize-mapwindow.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/icon-resize-mapwindow.png
+Found resource file: :/images/icon-search-tiny.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/icon-search-tiny.png
+Found resource file: :/images/icon-search.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/icon-search.png
+Found resource file: :/images/icon-secure-mode.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/icon-secure-mode.png
+Found resource file: :/images/icon-skillwheel-large.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/icon-skillwheel-large.png
+Found resource file: :/images/icon-sound.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/icon-sound.png
+Found resource file: :/images/icon-speech-say.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/icon-speech-say.png
+Found resource file: :/images/icon-speech-whisper.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/icon-speech-whisper.png
+Found resource file: :/images/icon-speech-yell.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/icon-speech-yell.png
+Found resource file: :/images/icon-splitchat.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/icon-splitchat.png
+Found resource file: :/images/icon-star-active.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/icon-star-active.png
+Found resource file: :/images/icon-star-bronze.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/icon-star-bronze.png
+Found resource file: :/images/icon-star-dark.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/icon-star-dark.png
+Found resource file: :/images/icon-star-gold.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/icon-star-gold.png
+Found resource file: :/images/icon-star-inactive.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/icon-star-inactive.png
+Found resource file: :/images/icon-star-silver.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/icon-star-silver.png
+Found resource file: :/images/icon-status-hidden.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/icon-status-hidden.png
+Found resource file: :/images/icon-store-16x10.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/icon-store-16x10.png
+Found resource file: :/images/icon-store-home.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/icon-store-home.png
+Found resource file: :/images/icon-store-search-result.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/icon-store-search-result.png
+Found resource file: :/images/icon-streamers.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/icon-streamers.png
+Found resource file: :/images/icon-summary.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/icon-summary.png
+Found resource file: :/images/icon-supplystash.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/icon-supplystash.png
+Found resource file: :/images/icon-tibiacoin.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/icon-tibiacoin.png
+Found resource file: :/images/icon-tibiacointransferable.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/icon-tibiacointransferable.png
+Found resource file: :/images/icon-tibiastore.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/icon-tibiastore.png
+Found resource file: :/images/icon-transfer.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/icon-transfer.png
+Found resource file: :/images/icon-twitch.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/icon-twitch.png
+Found resource file: :/images/icon-unlocked.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/icon-unlocked.png
+Found resource file: :/images/icon-uparrow-disabled.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/icon-uparrow-disabled.png
+Found resource file: :/images/icon-uparrow.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/icon-uparrow.png
+Found resource file: :/images/icon-uparrowskip-disabled.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/icon-uparrowskip-disabled.png
+Found resource file: :/images/icon-uparrowskip.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/icon-uparrowskip.png
+Found resource file: :/images/icon-viewers.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/icon-viewers.png
+Found resource file: :/images/icon-widget-search.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/icon-widget-search.png
+Found resource file: :/images/icon-yes.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/icon-yes.png
+Found resource file: :/images/icon-youtube.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/icon-youtube.png
+Found resource file: :/images/icon_3arrows.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/icon_3arrows.png
+Found resource file: :/images/icons-charactertrade-highlights.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/icons-charactertrade-highlights.png
+Found resource file: :/images/icons-skills.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/icons-skills.png
+Found resource file: :/images/indicator_soulcore.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/indicator_soulcore.png
+Found resource file: :/images/instant-reward-access-icon.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/instant-reward-access-icon.png
+Found resource file: :/images/inventory-back.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/inventory-back.png
+Found resource file: :/images/inventory-feet.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/inventory-feet.png
+Found resource file: :/images/inventory-finger.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/inventory-finger.png
+Found resource file: :/images/inventory-head.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/inventory-head.png
+Found resource file: :/images/inventory-hip.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/inventory-hip.png
+Found resource file: :/images/inventory-left-hand.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/inventory-left-hand.png
+Found resource file: :/images/inventory-legs.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/inventory-legs.png
+Found resource file: :/images/inventory-neck.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/inventory-neck.png
+Found resource file: :/images/inventory-right-hand.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/inventory-right-hand.png
+Found resource file: :/images/inventory-states-bar-vertical.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/inventory-states-bar-vertical.png
+Found resource file: :/images/inventory-states-bar.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/inventory-states-bar.png
+Found resource file: :/images/inventory-torso.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/inventory-torso.png
+Found resource file: :/images/lenshelp-icon-arrow-left.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/lenshelp-icon-arrow-left.png
+Found resource file: :/images/lenshelp-icon-arrow-right.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/lenshelp-icon-arrow-right.png
+Found resource file: :/images/lenshelp-icon-arrowskip-left.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/lenshelp-icon-arrowskip-left.png
+Found resource file: :/images/lenshelp-icon-arrowskip-right.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/lenshelp-icon-arrowskip-right.png
+Found resource file: :/images/lenshelp-icon-exiva.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/lenshelp-icon-exiva.png
+Found resource file: :/images/lenshelp-icon-locked.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/lenshelp-icon-locked.png
+Found resource file: :/images/lenshelp-icon-unlocked.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/lenshelp-icon-unlocked.png
+Found resource file: :/images/maincharacter.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/maincharacter.png
+Found resource file: :/images/mana-bar-filled.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/mana-bar-filled.png
+Found resource file: :/images/mana-symbol.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/mana-symbol.png
+Found resource file: :/images/manashield.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/manashield.png
+Found resource file: :/images/marker-left.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/marker-left.png
+Found resource file: :/images/marker-right.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/marker-right.png
+Found resource file: :/images/marker-top.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/marker-top.png
+Found resource file: :/images/monster-bonus-effects.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/monster-bonus-effects.png
+Found resource file: :/images/monster-bonus-points.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/monster-bonus-points.png
+Found resource file: :/images/monster-classifications.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/monster-classifications.png
+Found resource file: :/images/monster-icon-agony-resist.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/monster-icon-agony-resist.png
+Found resource file: :/images/monster-icon-armor.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/monster-icon-armor.png
+Found resource file: :/images/monster-icon-bonuspoints.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/monster-icon-bonuspoints.png
+Found resource file: :/images/monster-icon-death-resist.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/monster-icon-death-resist.png
+Found resource file: :/images/monster-icon-diamond-active.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/monster-icon-diamond-active.png
+Found resource file: :/images/monster-icon-diamond-inactive.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/monster-icon-diamond-inactive.png
+Found resource file: :/images/monster-icon-drowning-resist.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/monster-icon-drowning-resist.png
+Found resource file: :/images/monster-icon-earth-resist.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/monster-icon-earth-resist.png
+Found resource file: :/images/monster-icon-energy-resist.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/monster-icon-energy-resist.png
+Found resource file: :/images/monster-icon-experience.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/monster-icon-experience.png
+Found resource file: :/images/monster-icon-fire-resist.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/monster-icon-fire-resist.png
+Found resource file: :/images/monster-icon-healing-resist.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/monster-icon-healing-resist.png
+Found resource file: :/images/monster-icon-hitpoints.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/monster-icon-hitpoints.png
+Found resource file: :/images/monster-icon-holy-resist.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/monster-icon-holy-resist.png
+Found resource file: :/images/monster-icon-ice-resist.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/monster-icon-ice-resist.png
+Found resource file: :/images/monster-icon-lifedrain-resist.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/monster-icon-lifedrain-resist.png
+Found resource file: :/images/monster-icon-manadrain-resist.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/monster-icon-manadrain-resist.png
+Found resource file: :/images/monster-icon-melee.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/monster-icon-melee.png
+Found resource file: :/images/monster-icon-mitigation.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/monster-icon-mitigation.png
+Found resource file: :/images/monster-icon-noattack.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/monster-icon-noattack.png
+Found resource file: :/images/monster-icon-physical-resist.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/monster-icon-physical-resist.png
+Found resource file: :/images/monster-icon-ranged.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/monster-icon-ranged.png
+Found resource file: :/images/monster-icon-speed.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/monster-icon-speed.png
+Found resource file: :/images/monster-icon-spellcaster.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/monster-icon-spellcaster.png
+Found resource file: :/images/prey-auto-extend-disabled.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/prey-auto-extend-disabled.png
+Found resource file: :/images/prey-auto-reroll-enabled-failing.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/prey-auto-reroll-enabled-failing.png
+Found resource file: :/images/prey-auto-reroll-enabled.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/prey-auto-reroll-enabled.png
+Found resource file: :/images/prey-bonus-damage-boost-small.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/prey-bonus-damage-boost-small.png
+Found resource file: :/images/prey-bonus-damage-boost.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/prey-bonus-damage-boost.png
+Found resource file: :/images/prey-bonus-damage-reduction-small.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/prey-bonus-damage-reduction-small.png
+Found resource file: :/images/prey-bonus-damage-reduction.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/prey-bonus-damage-reduction.png
+Found resource file: :/images/prey-bonus-improved-loot-small.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/prey-bonus-improved-loot-small.png
+Found resource file: :/images/prey-bonus-improved-loot.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/prey-bonus-improved-loot.png
+Found resource file: :/images/prey-bonus-improved-xp-small.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/prey-bonus-improved-xp-small.png
+Found resource file: :/images/prey-bonus-improved-xp.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/prey-bonus-improved-xp.png
+Found resource file: :/images/prey-bonus-none-small.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/prey-bonus-none-small.png
+Found resource file: :/images/prey-bonus-none.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/prey-bonus-none.png
+Found resource file: :/images/prey-bonus-reroll-disabled.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/prey-bonus-reroll-disabled.png
+Found resource file: :/images/prey-bonus-reroll.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/prey-bonus-reroll.png
+Found resource file: :/images/prey-choose-prey-disabled.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/prey-choose-prey-disabled.png
+Found resource file: :/images/prey-choose-prey-reactivate-disabled.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/prey-choose-prey-reactivate-disabled.png
+Found resource file: :/images/prey-choose-prey-reactivate.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/prey-choose-prey-reactivate.png
+Found resource file: :/images/prey-choose-prey.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/prey-choose-prey.png
+Found resource file: :/images/prey-confirm-monster-selection-disabled.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/prey-confirm-monster-selection-disabled.png
+Found resource file: :/images/prey-confirm-monster-selection.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/prey-confirm-monster-selection.png
+Found resource file: :/images/prey-list-reroll-disabled.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/prey-list-reroll-disabled.png
+Found resource file: :/images/prey-list-reroll-reactivate-disabled.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/prey-list-reroll-reactivate-disabled.png
+Found resource file: :/images/prey-list-reroll-reactivate.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/prey-list-reroll-reactivate.png
+Found resource file: :/images/prey-list-reroll.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/prey-list-reroll.png
+Found resource file: :/images/prey-lock-prey-enabled-failing.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/prey-lock-prey-enabled-failing.png
+Found resource file: :/images/prey-lock-prey-enabled.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/prey-lock-prey-enabled.png
+Found resource file: :/images/prey-noprey-small.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/prey-noprey-small.png
+Found resource file: :/images/prey-noprey.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/prey-noprey.png
+Found resource file: :/images/prey-unlock-permanently.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/prey-unlock-permanently.png
+Found resource file: :/images/prey-unlock-temporarily.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/prey-unlock-temporarily.png
+Found resource file: :/images/prey-wildcards-icon.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/prey-wildcards-icon.png
+Found resource file: :/images/preyhuntingtask-cancel-disabled.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/preyhuntingtask-cancel-disabled.png
+Found resource file: :/images/preyhuntingtask-cancel.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/preyhuntingtask-cancel.png
+Found resource file: :/images/preyhuntingtask-exhausted.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/preyhuntingtask-exhausted.png
+Found resource file: :/images/preyhuntingtask-finish-disabled.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/preyhuntingtask-finish-disabled.png
+Found resource file: :/images/preyhuntingtask-finish.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/preyhuntingtask-finish.png
+Found resource file: :/images/preyhuntingtask-preytoken-banner.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/preyhuntingtask-preytoken-banner.png
+Found resource file: :/images/preyhuntingtask-reroll-huntingtaskbonus-disabled.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/preyhuntingtask-reroll-huntingtaskbonus-disabled.png
+Found resource file: :/images/preyhuntingtask-reroll-huntingtaskbonus.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/preyhuntingtask-reroll-huntingtaskbonus.png
+Found resource file: :/images/preyhuntingtask-select-disabled.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/preyhuntingtask-select-disabled.png
+Found resource file: :/images/preyhuntingtask-select.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/preyhuntingtask-select.png
+Found resource file: :/images/preyhuntingtask-tokens.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/preyhuntingtask-tokens.png
+Found resource file: :/images/progressbar-blue-large-vertical.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/progressbar-blue-large-vertical.png
+Found resource file: :/images/progressbar-blue-large.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/progressbar-blue-large.png
+Found resource file: :/images/progressbar-blue-small-vertical.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/progressbar-blue-small-vertical.png
+Found resource file: :/images/progressbar-blue-small.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/progressbar-blue-small.png
+Found resource file: :/images/progressbar-blue-tiny-vertical.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/progressbar-blue-tiny-vertical.png
+Found resource file: :/images/progressbar-blue-tiny.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/progressbar-blue-tiny.png
+Found resource file: :/images/progressbar-green-large-vertical.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/progressbar-green-large-vertical.png
+Found resource file: :/images/progressbar-green-large.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/progressbar-green-large.png
+Found resource file: :/images/progressbar-green-small-vertical.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/progressbar-green-small-vertical.png
+Found resource file: :/images/progressbar-green-small.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/progressbar-green-small.png
+Found resource file: :/images/progressbar-grey-large.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/progressbar-grey-large.png
+Found resource file: :/images/progressbar-large-10-vertical.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/progressbar-large-10-vertical.png
+Found resource file: :/images/progressbar-large-10.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/progressbar-large-10.png
+Found resource file: :/images/progressbar-large-100-vertical.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/progressbar-large-100-vertical.png
+Found resource file: :/images/progressbar-large-100.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/progressbar-large-100.png
+Found resource file: :/images/progressbar-large-30-vertical.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/progressbar-large-30-vertical.png
+Found resource file: :/images/progressbar-large-30.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/progressbar-large-30.png
+Found resource file: :/images/progressbar-large-4-vertical.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/progressbar-large-4-vertical.png
+Found resource file: :/images/progressbar-large-4.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/progressbar-large-4.png
+Found resource file: :/images/progressbar-large-60-vertical.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/progressbar-large-60-vertical.png
+Found resource file: :/images/progressbar-large-60.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/progressbar-large-60.png
+Found resource file: :/images/progressbar-large-95-vertical.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/progressbar-large-95-vertical.png
+Found resource file: :/images/progressbar-large-95.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/progressbar-large-95.png
+Found resource file: :/images/progressbar-manashield-small-vertical.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/progressbar-manashield-small-vertical.png
+Found resource file: :/images/progressbar-manashield-small.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/progressbar-manashield-small.png
+Found resource file: :/images/progressbar-manashield-tiny-vertical.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/progressbar-manashield-tiny-vertical.png
+Found resource file: :/images/progressbar-manashield-tiny.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/progressbar-manashield-tiny.png
+Found resource file: :/images/progressbar-orange-large.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/progressbar-orange-large.png
+Found resource file: :/images/progressbar-orange-small.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/progressbar-orange-small.png
+Found resource file: :/images/progressbar-red-large-vertical.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/progressbar-red-large-vertical.png
+Found resource file: :/images/progressbar-red-large.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/progressbar-red-large.png
+Found resource file: :/images/progressbar-red-small-vertical.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/progressbar-red-small-vertical.png
+Found resource file: :/images/progressbar-red-small.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/progressbar-red-small.png
+Found resource file: :/images/progressbar-small-10-vertical.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/progressbar-small-10-vertical.png
+Found resource file: :/images/progressbar-small-10.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/progressbar-small-10.png
+Found resource file: :/images/progressbar-small-100-vertical.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/progressbar-small-100-vertical.png
+Found resource file: :/images/progressbar-small-100.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/progressbar-small-100.png
+Found resource file: :/images/progressbar-small-30-vertical.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/progressbar-small-30-vertical.png
+Found resource file: :/images/progressbar-small-30.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/progressbar-small-30.png
+Found resource file: :/images/progressbar-small-4-vertical.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/progressbar-small-4-vertical.png
+Found resource file: :/images/progressbar-small-4.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/progressbar-small-4.png
+Found resource file: :/images/progressbar-small-60-vertical.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/progressbar-small-60-vertical.png
+Found resource file: :/images/progressbar-small-60.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/progressbar-small-60.png
+Found resource file: :/images/progressbar-small-95-vertical.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/progressbar-small-95-vertical.png
+Found resource file: :/images/progressbar-small-95.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/progressbar-small-95.png
+Found resource file: :/images/progressbar-yellow-large-vertical.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/progressbar-yellow-large-vertical.png
+Found resource file: :/images/progressbar-yellow-large.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/progressbar-yellow-large.png
+Found resource file: :/images/progressbar-yellow-small-vertical.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/progressbar-yellow-small-vertical.png
+Found resource file: :/images/progressbar-yellow-small.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/progressbar-yellow-small.png
+Found resource file: :/images/rectangle-highlight.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/rectangle-highlight.png
+Found resource file: :/images/slot-actionbar.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/slot-actionbar.png
+Found resource file: :/images/statusbar-top-lower-border.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/statusbar-top-lower-border.png
+Found resource file: :/images/store-flag-expires.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/store-flag-expires.png
+Found resource file: :/images/store-flag-new.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/store-flag-new.png
+Found resource file: :/images/store-flag-sale.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/store-flag-sale.png
+Found resource file: :/images/store-icons-inline.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/store-icons-inline.png
+Found resource file: :/images/tiers-strip-big.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/tiers-strip-big.png
+Found resource file: :/images/tiers-strip.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/tiers-strip.png
+Found resource file: :/images/timedisplay-glass.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/timedisplay-glass.png
+Found resource file: :/images/timedisplay-scroll.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/timedisplay-scroll.png
+Found resource file: :/images/title.jpg
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/title.jpg
+Found resource file: :/images/transaction-history-logo.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/transaction-history-logo.png
+Found resource file: :/images/unknownoutfit.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/unknownoutfit.png
+Found resource file: :/images/widget-borderimage.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/widget-borderimage.png
+Found resource file: :/images/windowresizer.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/windowresizer.png
+Found resource folder: blessings
+Create folder: ./qresource/res/graphics_resources.rcc/images/blessings/
+Found resource file: :/images/blessings/blessings-icons.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/blessings/blessings-icons.png
+Found resource file: :/images/blessings/button-blessings-gold-idle.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/blessings/button-blessings-gold-idle.png
+Found resource file: :/images/blessings/button-blessings-gold-pressed.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/blessings/button-blessings-gold-pressed.png
+Found resource file: :/images/blessings/button-blessings-green-idle.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/blessings/button-blessings-green-idle.png
+Found resource file: :/images/blessings/button-blessings-green-pressed.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/blessings/button-blessings-green-pressed.png
+Found resource file: :/images/blessings/button-blessings-grey-idle.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/blessings/button-blessings-grey-idle.png
+Found resource file: :/images/blessings/button-blessings-grey-pressed.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/blessings/button-blessings-grey-pressed.png
+Found resource folder: creatures
+Create folder: ./qresource/res/graphics_resources.rcc/images/creatures/
+Found resource file: :/images/creatures/creature-speech-flags.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/creatures/creature-speech-flags.png
+Found resource file: :/images/creatures/creature-state-flags.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/creatures/creature-state-flags.png
+Found resource file: :/images/creatures/player-state-flags-client.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/creatures/player-state-flags-client.png
+Found resource file: :/images/creatures/player-state-flags-rotten-blood.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/creatures/player-state-flags-rotten-blood.png
+Found resource file: :/images/creatures/player-state-flags.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/creatures/player-state-flags.png
+Found resource file: :/images/creatures/player-state-guildwar-flag.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/creatures/player-state-guildwar-flag.png
+Found resource file: :/images/creatures/player-state-playerkiller-flags.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/creatures/player-state-playerkiller-flags.png
+Found resource file: :/images/creatures/vip-icons.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/creatures/vip-icons.png
+Found resource folder: hud
+Create folder: ./qresource/res/graphics_resources.rcc/images/creatures/hud/
+Found resource folder: flags
+Create folder: ./qresource/res/graphics_resources.rcc/images/creatures/hud/flags/
+Found resource file: :/images/creatures/hud/flags/guild.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/creatures/hud/flags/guild.png
+Found resource file: :/images/creatures/hud/flags/modifications.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/creatures/hud/flags/modifications.png
+Found resource file: :/images/creatures/hud/flags/party.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/creatures/hud/flags/party.png
+Found resource file: :/images/creatures/hud/flags/playerkiller.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/creatures/hud/flags/playerkiller.png
+Found resource file: :/images/creatures/hud/flags/quests.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/creatures/hud/flags/quests.png
+Found resource file: :/images/creatures/hud/flags/speech.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/creatures/hud/flags/speech.png
+Found resource file: :/images/creatures/hud/flags/summon.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/creatures/hud/flags/summon.png
+Found resource folder: dailyreward
+Create folder: ./qresource/res/graphics_resources.rcc/images/dailyreward/
+Found resource file: :/images/dailyreward/icon-banner-days.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/dailyreward/icon-banner-days.png
+Found resource file: :/images/dailyreward/icon-checkmark.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/dailyreward/icon-checkmark.png
+Found resource file: :/images/dailyreward/icon-get-premium.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/dailyreward/icon-get-premium.png
+Found resource file: :/images/dailyreward/icon-have-premium.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/dailyreward/icon-have-premium.png
+Found resource file: :/images/dailyreward/icon-restingareabonuseslevels.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/dailyreward/icon-restingareabonuseslevels.png
+Found resource file: :/images/dailyreward/icon-reward-fixeditems.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/dailyreward/icon-reward-fixeditems.png
+Found resource file: :/images/dailyreward/icon-reward-pickitems.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/dailyreward/icon-reward-pickitems.png
+Found resource file: :/images/dailyreward/icon-reward-xpboost.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/dailyreward/icon-reward-xpboost.png
+Found resource file: :/images/dailyreward/icon-rewardarrow-active.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/dailyreward/icon-rewardarrow-active.png
+Found resource file: :/images/dailyreward/icon-rewardarrow-inactive.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/dailyreward/icon-rewardarrow-inactive.png
+Found resource file: :/images/dailyreward/icon-rewardarrow-loop-active.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/dailyreward/icon-rewardarrow-loop-active.png
+Found resource file: :/images/dailyreward/icon-rewardarrow-loop-inactive.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/dailyreward/icon-rewardarrow-loop-inactive.png
+Found resource file: :/images/dailyreward/icon-rewardstreak-bronze.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/dailyreward/icon-rewardstreak-bronze.png
+Found resource file: :/images/dailyreward/icon-rewardstreak-default.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/dailyreward/icon-rewardstreak-default.png
+Found resource file: :/images/dailyreward/icon-rewardstreak-gold.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/dailyreward/icon-rewardstreak-gold.png
+Found resource file: :/images/dailyreward/icon-rewardstreak-silver.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/dailyreward/icon-rewardstreak-silver.png
+Found resource folder: dynamic
+Create folder: ./qresource/res/graphics_resources.rcc/images/dynamic/
+Found resource file: :/images/dynamic/dynamic-image-error.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/dynamic/dynamic-image-error.png
+Found resource file: :/images/dynamic/dynamic-image-error_13x13.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/dynamic/dynamic-image-error_13x13.png
+Found resource file: :/images/dynamic/dynamic-image-loading.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/dynamic/dynamic-image-loading.png
+Found resource file: :/images/dynamic/dynamic-image-loading_13x13.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/dynamic/dynamic-image-loading_13x13.png
+Found resource folder: grid
+Create folder: ./qresource/res/graphics_resources.rcc/images/grid/
+Found resource file: :/images/grid/1pixel-down-frame-bottom.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/grid/1pixel-down-frame-bottom.png
+Found resource file: :/images/grid/1pixel-down-frame-left.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/grid/1pixel-down-frame-left.png
+Found resource file: :/images/grid/1pixel-down-frame-right.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/grid/1pixel-down-frame-right.png
+Found resource file: :/images/grid/1pixel-down-frame-top.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/grid/1pixel-down-frame-top.png
+Found resource file: :/images/grid/3pixel-frame-bottom-left.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/grid/3pixel-frame-bottom-left.png
+Found resource file: :/images/grid/3pixel-frame-bottom-right.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/grid/3pixel-frame-bottom-right.png
+Found resource file: :/images/grid/3pixel-frame-bottom.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/grid/3pixel-frame-bottom.png
+Found resource file: :/images/grid/3pixel-frame-left.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/grid/3pixel-frame-left.png
+Found resource file: :/images/grid/3pixel-frame-right.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/grid/3pixel-frame-right.png
+Found resource file: :/images/grid/3pixel-frame-top-left.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/grid/3pixel-frame-top-left.png
+Found resource file: :/images/grid/3pixel-frame-top-right.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/grid/3pixel-frame-top-right.png
+Found resource file: :/images/grid/3pixel-frame-top.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/grid/3pixel-frame-top.png
+Found resource folder: imbuing
+Create folder: ./qresource/res/graphics_resources.rcc/images/imbuing/
+Found resource file: :/images/imbuing/imbuement-icons.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/imbuing/imbuement-icons.png
+Found resource file: :/images/imbuing/imbuing-icon-imbue-active.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/imbuing/imbuing-icon-imbue-active.png
+Found resource file: :/images/imbuing/imbuing-icon-imbue-disabled.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/imbuing/imbuing-icon-imbue-disabled.png
+Found resource file: :/images/imbuing/imbuing-icon-nopremium.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/imbuing/imbuing-icon-nopremium.png
+Found resource file: :/images/imbuing/imbuing-icon-premium.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/imbuing/imbuing-icon-premium.png
+Found resource file: :/images/imbuing/imbuing-icon-remove-active.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/imbuing/imbuing-icon-remove-active.png
+Found resource file: :/images/imbuing/imbuing-icon-remove-disabled.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/imbuing/imbuing-icon-remove-disabled.png
+Found resource file: :/images/imbuing/imbuing-icon-useprotection-active.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/imbuing/imbuing-icon-useprotection-active.png
+Found resource file: :/images/imbuing/imbuing-icon-useprotection-disabled.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/imbuing/imbuing-icon-useprotection-disabled.png
+Found resource file: :/images/imbuing/imbuing-slot-empty.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/imbuing/imbuing-slot-empty.png
+Found resource file: :/images/imbuing/imbuing-slot-locked.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/imbuing/imbuing-slot-locked.png
+Found resource folder: latency
+Create folder: ./qresource/res/graphics_resources.rcc/images/latency/
+Found resource file: :/images/latency/latency-high.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/latency/latency-high.png
+Found resource file: :/images/latency/latency-low.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/latency/latency-low.png
+Found resource file: :/images/latency/latency-medium.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/latency/latency-medium.png
+Found resource file: :/images/latency/optimized-connection-stability.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/latency/optimized-connection-stability.png
+Found resource folder: minimap
+Create folder: ./qresource/res/graphics_resources.rcc/images/minimap/
+Found resource file: :/images/minimap/background-for-highlighting-markers.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/minimap/background-for-highlighting-markers.png
+Found resource file: :/images/minimap/markers.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/minimap/markers.png
+Found resource folder: news
+Create folder: ./qresource/res/graphics_resources.rcc/images/news/
+Found resource file: :/images/news/icon-news-client-features.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/news/icon-news-client-features.png
+Found resource file: :/images/news/icon-news-game-content.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/news/icon-news-game-content.png
+Found resource file: :/images/news/icon-news-major-updates.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/news/icon-news-major-updates.png
+Found resource file: :/images/news/icon-news-support.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/news/icon-news-support.png
+Found resource file: :/images/news/icon-news-useful-info.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/news/icon-news-useful-info.png
+Found resource file: :/images/news/icon-seasonalevent.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/news/icon-seasonalevent.png
+Found resource folder: passiveabilities
+Create folder: ./qresource/res/graphics_resources.rcc/images/passiveabilities/
+Found resource file: :/images/passiveabilities/passiveability-icons-32x32.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/passiveabilities/passiveability-icons-32x32.png
+Found resource folder: playerguide
+Create folder: ./qresource/res/graphics_resources.rcc/images/playerguide/
+Found resource file: :/images/playerguide/playerguide-icon-levelup.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/playerguide/playerguide-icon-levelup.png
+Found resource folder: premium
+Create folder: ./qresource/res/graphics_resources.rcc/images/premium/
+Found resource file: :/images/premium/icon-banner-premium-16x16.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/premium/icon-banner-premium-16x16.png
+Found resource file: :/images/premium/icon-banner-premium.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/premium/icon-banner-premium.png
+Found resource file: :/images/premium/icon-nopremium.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/premium/icon-nopremium.png
+Found resource file: :/images/premium/icon-premium.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/premium/icon-premium.png
+Found resource file: :/images/premium/illustration-welcomeback.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/premium/illustration-welcomeback.png
+Found resource file: :/images/premium/premium-icons-20x20.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/premium/premium-icons-20x20.png
+Found resource file: :/images/premium/premium-icons-32x32.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/premium/premium-icons-32x32.png
+Found resource folder: skillwheel
+Create folder: ./qresource/res/graphics_resources.rcc/images/skillwheel/
+Found resource file: :/images/skillwheel/backdrop_grades_circle_bottom.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/skillwheel/backdrop_grades_circle_bottom.png
+Found resource file: :/images/skillwheel/backdrop_grades_circle_bottom_anim.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/skillwheel/backdrop_grades_circle_bottom_anim.png
+Found resource file: :/images/skillwheel/backdrop_grades_circle_mid.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/skillwheel/backdrop_grades_circle_mid.png
+Found resource file: :/images/skillwheel/backdrop_grades_circle_mid_anim.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/skillwheel/backdrop_grades_circle_mid_anim.png
+Found resource file: :/images/skillwheel/backdrop_grades_circle_top.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/skillwheel/backdrop_grades_circle_top.png
+Found resource file: :/images/skillwheel/backdrop_grades_circle_top_anim.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/skillwheel/backdrop_grades_circle_top_anim.png
+Found resource file: :/images/skillwheel/backdrop_grades_line.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/skillwheel/backdrop_grades_line.png
+Found resource file: :/images/skillwheel/backdrop_grades_line_anim.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/skillwheel/backdrop_grades_line_anim.png
+Found resource file: :/images/skillwheel/backdrop_modgrades.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/skillwheel/backdrop_modgrades.png
+Found resource file: :/images/skillwheel/backdrop_skillwheel.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/skillwheel/backdrop_skillwheel.png
+Found resource file: :/images/skillwheel/backdrop_skillwheel_front.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/skillwheel/backdrop_skillwheel_front.png
+Found resource file: :/images/skillwheel/backdrop_skillwheel_largebonus_front0_BL.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/skillwheel/backdrop_skillwheel_largebonus_front0_BL.png
+Found resource file: :/images/skillwheel/backdrop_skillwheel_largebonus_front0_BR.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/skillwheel/backdrop_skillwheel_largebonus_front0_BR.png
+Found resource file: :/images/skillwheel/backdrop_skillwheel_largebonus_front0_TL.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/skillwheel/backdrop_skillwheel_largebonus_front0_TL.png
+Found resource file: :/images/skillwheel/backdrop_skillwheel_largebonus_front0_TR.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/skillwheel/backdrop_skillwheel_largebonus_front0_TR.png
+Found resource file: :/images/skillwheel/backdrop_skillwheel_largebonus_front1_BL.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/skillwheel/backdrop_skillwheel_largebonus_front1_BL.png
+Found resource file: :/images/skillwheel/backdrop_skillwheel_largebonus_front1_BR.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/skillwheel/backdrop_skillwheel_largebonus_front1_BR.png
+Found resource file: :/images/skillwheel/backdrop_skillwheel_largebonus_front1_TL.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/skillwheel/backdrop_skillwheel_largebonus_front1_TL.png
+Found resource file: :/images/skillwheel/backdrop_skillwheel_largebonus_front1_TR.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/skillwheel/backdrop_skillwheel_largebonus_front1_TR.png
+Found resource file: :/images/skillwheel/backdrop_skillwheel_largebonus_front2_BL.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/skillwheel/backdrop_skillwheel_largebonus_front2_BL.png
+Found resource file: :/images/skillwheel/backdrop_skillwheel_largebonus_front2_BR.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/skillwheel/backdrop_skillwheel_largebonus_front2_BR.png
+Found resource file: :/images/skillwheel/backdrop_skillwheel_largebonus_front2_TL.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/skillwheel/backdrop_skillwheel_largebonus_front2_TL.png
+Found resource file: :/images/skillwheel/backdrop_skillwheel_largebonus_front2_TR.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/skillwheel/backdrop_skillwheel_largebonus_front2_TR.png
+Found resource file: :/images/skillwheel/backdrop_skillwheel_largebonus_front3_BL.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/skillwheel/backdrop_skillwheel_largebonus_front3_BL.png
+Found resource file: :/images/skillwheel/backdrop_skillwheel_largebonus_front3_BR.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/skillwheel/backdrop_skillwheel_largebonus_front3_BR.png
+Found resource file: :/images/skillwheel/backdrop_skillwheel_largebonus_front3_TL.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/skillwheel/backdrop_skillwheel_largebonus_front3_TL.png
+Found resource file: :/images/skillwheel/backdrop_skillwheel_largebonus_front3_TR.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/skillwheel/backdrop_skillwheel_largebonus_front3_TR.png
+Found resource file: :/images/skillwheel/backdrop_skillwheel_largebonus_light_BL.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/skillwheel/backdrop_skillwheel_largebonus_light_BL.png
+Found resource file: :/images/skillwheel/backdrop_skillwheel_largebonus_light_BR.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/skillwheel/backdrop_skillwheel_largebonus_light_BR.png
+Found resource file: :/images/skillwheel/backdrop_skillwheel_largebonus_light_TL.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/skillwheel/backdrop_skillwheel_largebonus_light_TL.png
+Found resource file: :/images/skillwheel/backdrop_skillwheel_largebonus_light_TR.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/skillwheel/backdrop_skillwheel_largebonus_light_TR.png
+Found resource file: :/images/skillwheel/backdrop_skillwheel_largebonus_socketdisabled_BL.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/skillwheel/backdrop_skillwheel_largebonus_socketdisabled_BL.png
+Found resource file: :/images/skillwheel/backdrop_skillwheel_largebonus_socketdisabled_BR.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/skillwheel/backdrop_skillwheel_largebonus_socketdisabled_BR.png
+Found resource file: :/images/skillwheel/backdrop_skillwheel_largebonus_socketdisabled_TL.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/skillwheel/backdrop_skillwheel_largebonus_socketdisabled_TL.png
+Found resource file: :/images/skillwheel/backdrop_skillwheel_largebonus_socketdisabled_TR.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/skillwheel/backdrop_skillwheel_largebonus_socketdisabled_TR.png
+Found resource file: :/images/skillwheel/backdrop_skillwheel_largebonus_socketenabled_BL.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/skillwheel/backdrop_skillwheel_largebonus_socketenabled_BL.png
+Found resource file: :/images/skillwheel/backdrop_skillwheel_largebonus_socketenabled_BR.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/skillwheel/backdrop_skillwheel_largebonus_socketenabled_BR.png
+Found resource file: :/images/skillwheel/backdrop_skillwheel_largebonus_socketenabled_TL.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/skillwheel/backdrop_skillwheel_largebonus_socketenabled_TL.png
+Found resource file: :/images/skillwheel/backdrop_skillwheel_largebonus_socketenabled_TR.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/skillwheel/backdrop_skillwheel_largebonus_socketenabled_TR.png
+Found resource file: :/images/skillwheel/backdrop_skillwheel_socket_active.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/skillwheel/backdrop_skillwheel_socket_active.png
+Found resource file: :/images/skillwheel/backdrop_skillwheel_socket_inactive.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/skillwheel/backdrop_skillwheel_socket_inactive.png
+Found resource file: :/images/skillwheel/change-skillpoints-button-down.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/skillwheel/change-skillpoints-button-down.png
+Found resource file: :/images/skillwheel/change-skillpoints-button-up.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/skillwheel/change-skillpoints-button-up.png
+Found resource file: :/images/skillwheel/icon-augmentation1-active.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/skillwheel/icon-augmentation1-active.png
+Found resource file: :/images/skillwheel/icon-augmentation1-inactive.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/skillwheel/icon-augmentation1-inactive.png
+Found resource file: :/images/skillwheel/icon-augmentation2-active.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/skillwheel/icon-augmentation2-active.png
+Found resource file: :/images/skillwheel/icon-augmentation2-inactive.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/skillwheel/icon-augmentation2-inactive.png
+Found resource file: :/images/skillwheel/icon-cooldown-reduction.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/skillwheel/icon-cooldown-reduction.png
+Found resource file: :/images/skillwheel/icon-crit.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/skillwheel/icon-crit.png
+Found resource file: :/images/skillwheel/icon-fragments-greater.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/skillwheel/icon-fragments-greater.png
+Found resource file: :/images/skillwheel/icon-fragments-lesser.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/skillwheel/icon-fragments-lesser.png
+Found resource file: :/images/skillwheel/icon-fragmentworkshop.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/skillwheel/icon-fragmentworkshop.png
+Found resource file: :/images/skillwheel/icon-gematelier.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/skillwheel/icon-gematelier.png
+Found resource file: :/images/skillwheel/icon-modgrade1.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/skillwheel/icon-modgrade1.png
+Found resource file: :/images/skillwheel/icon-modgrade2.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/skillwheel/icon-modgrade2.png
+Found resource file: :/images/skillwheel/icon-modgrade3.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/skillwheel/icon-modgrade3.png
+Found resource file: :/images/skillwheel/icon-modgrade4.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/skillwheel/icon-modgrade4.png
+Found resource file: :/images/skillwheel/icon-skillwheel-presets.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/skillwheel/icon-skillwheel-presets.png
+Found resource file: :/images/skillwheel/icon-skillwheel-selection.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/skillwheel/icon-skillwheel-selection.png
+Found resource file: :/images/skillwheel/icon-skillwheel-vesselresonance-basic.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/skillwheel/icon-skillwheel-vesselresonance-basic.png
+Found resource file: :/images/skillwheel/icon-skillwheel-vesselresonance-supreme.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/skillwheel/icon-skillwheel-vesselresonance-supreme.png
+Found resource file: :/images/skillwheel/icon-socketed.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/skillwheel/icon-socketed.png
+Found resource file: :/images/skillwheel/icon-spelldamage.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/skillwheel/icon-spelldamage.png
+Found resource file: :/images/skillwheel/icons-gematelier-domainaffinity.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/skillwheel/icons-gematelier-domainaffinity.png
+Found resource file: :/images/skillwheel/icons-gematelier-gemvariants.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/skillwheel/icons-gematelier-gemvariants.png
+Found resource file: :/images/skillwheel/icons-modgrades-potential.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/skillwheel/icons-modgrades-potential.png
+Found resource file: :/images/skillwheel/icons-skillwheel-basicmods.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/skillwheel/icons-skillwheel-basicmods.png
+Found resource file: :/images/skillwheel/icons-skillwheel-largeperks.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/skillwheel/icons-skillwheel-largeperks.png
+Found resource file: :/images/skillwheel/icons-skillwheel-mediumperks.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/skillwheel/icons-skillwheel-mediumperks.png
+Found resource file: :/images/skillwheel/icons-skillwheel-smallperks.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/skillwheel/icons-skillwheel-smallperks.png
+Found resource file: :/images/skillwheel/icons-skillwheel-sockets.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/skillwheel/icons-skillwheel-sockets.png
+Found resource file: :/images/skillwheel/icons-skillwheel-suprememods.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/skillwheel/icons-skillwheel-suprememods.png
+Found resource file: :/images/skillwheel/marker_largeperk.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/skillwheel/marker_largeperk.png
+Found resource file: :/images/skillwheel/marker_skillwheelsocket.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/skillwheel/marker_skillwheelsocket.png
+Found resource file: :/images/skillwheel/socket-gematelier.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/skillwheel/socket-gematelier.png
+Found resource folder: skin
+Create folder: ./qresource/res/graphics_resources.rcc/images/skin/
+Found resource folder: classic
+Create folder: ./qresource/res/graphics_resources.rcc/images/skin/classic/
+Found resource file: :/images/skin/classic/4pixel-up-frame.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/skin/classic/4pixel-up-frame.png
+Found resource file: :/images/skin/classic/button-9grid-idle.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/skin/classic/button-9grid-idle.png
+Found resource file: :/images/skin/classic/button-9grid-pressed.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/skin/classic/button-9grid-pressed.png
+Found resource file: :/images/skin/classic/button-back-down.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/skin/classic/button-back-down.png
+Found resource file: :/images/skin/classic/button-back-inactive.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/skin/classic/button-back-inactive.png
+Found resource file: :/images/skin/classic/button-back-up.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/skin/classic/button-back-up.png
+Found resource file: :/images/skin/classic/button-blue-down.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/skin/classic/button-blue-down.png
+Found resource file: :/images/skin/classic/button-blue-up.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/skin/classic/button-blue-up.png
+Found resource file: :/images/skin/classic/button-contextmenu-12x12-idle.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/skin/classic/button-contextmenu-12x12-idle.png
+Found resource file: :/images/skin/classic/button-contextmenu-12x12-pressed.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/skin/classic/button-contextmenu-12x12-pressed.png
+Found resource file: :/images/skin/classic/button-darkgrey-down.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/skin/classic/button-darkgrey-down.png
+Found resource file: :/images/skin/classic/button-darkgrey-up.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/skin/classic/button-darkgrey-up.png
+Found resource file: :/images/skin/classic/button-dropdown-20x20-idle.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/skin/classic/button-dropdown-20x20-idle.png
+Found resource file: :/images/skin/classic/button-dropdown-20x20-pressed.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/skin/classic/button-dropdown-20x20-pressed.png
+Found resource file: :/images/skin/classic/button-expand-12x12-down.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/skin/classic/button-expand-12x12-down.png
+Found resource file: :/images/skin/classic/button-expand-12x12-up.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/skin/classic/button-expand-12x12-up.png
+Found resource file: :/images/skin/classic/button-gold-down.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/skin/classic/button-gold-down.png
+Found resource file: :/images/skin/classic/button-gold-up.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/skin/classic/button-gold-up.png
+Found resource file: :/images/skin/classic/button-green-down.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/skin/classic/button-green-down.png
+Found resource file: :/images/skin/classic/button-green-up.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/skin/classic/button-green-up.png
+Found resource file: :/images/skin/classic/button-grey-down.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/skin/classic/button-grey-down.png
+Found resource file: :/images/skin/classic/button-grey-up.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/skin/classic/button-grey-up.png
+Found resource file: :/images/skin/classic/button-storeimage-next-down.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/skin/classic/button-storeimage-next-down.png
+Found resource file: :/images/skin/classic/button-storeimage-next-up.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/skin/classic/button-storeimage-next-up.png
+Found resource file: :/images/skin/classic/button-storeimage-previous-down.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/skin/classic/button-storeimage-previous-down.png
+Found resource file: :/images/skin/classic/button-storeimage-previous-up.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/skin/classic/button-storeimage-previous-up.png
+Found resource file: :/images/skin/classic/button-textured-down.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/skin/classic/button-textured-down.png
+Found resource file: :/images/skin/classic/button-textured-up.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/skin/classic/button-textured-up.png
+Found resource file: :/images/skin/classic/button-verydarkgrey-down.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/skin/classic/button-verydarkgrey-down.png
+Found resource file: :/images/skin/classic/button-verydarkgrey-up.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/skin/classic/button-verydarkgrey-up.png
+Found resource file: :/images/skin/classic/checkbox-checked-disabled.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/skin/classic/checkbox-checked-disabled.png
+Found resource file: :/images/skin/classic/checkbox-checked.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/skin/classic/checkbox-checked.png
+Found resource file: :/images/skin/classic/checkbox-unchecked.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/skin/classic/checkbox-unchecked.png
+Found resource file: :/images/skin/classic/cipsoft-logo.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/skin/classic/cipsoft-logo.png
+Found resource file: :/images/skin/classic/client-dragon-logo-regular.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/skin/classic/client-dragon-logo-regular.png
+Found resource file: :/images/skin/classic/client-dragon-logo-testserver.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/skin/classic/client-dragon-logo-testserver.png
+Found resource file: :/images/skin/classic/container-level-up-down.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/skin/classic/container-level-up-down.png
+Found resource file: :/images/skin/classic/container-level-up-up.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/skin/classic/container-level-up-up.png
+Found resource file: :/images/skin/classic/dialog-frame-borderimage.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/skin/classic/dialog-frame-borderimage.png
+Found resource file: :/images/skin/classic/exit-button-small-down.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/skin/classic/exit-button-small-down.png
+Found resource file: :/images/skin/classic/exit-button-small-inactive.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/skin/classic/exit-button-small-inactive.png
+Found resource file: :/images/skin/classic/exit-button-small-up.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/skin/classic/exit-button-small-up.png
+Found resource file: :/images/skin/classic/horizontal-line-bright.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/skin/classic/horizontal-line-bright.png
+Found resource file: :/images/skin/classic/horizontal-line-dark.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/skin/classic/horizontal-line-dark.png
+Found resource file: :/images/skin/classic/icon-add-small.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/skin/classic/icon-add-small.png
+Found resource file: :/images/skin/classic/icon-add.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/skin/classic/icon-add.png
+Found resource file: :/images/skin/classic/icon-additionalwidget.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/skin/classic/icon-additionalwidget.png
+Found resource file: :/images/skin/classic/icon-analyticsselector-widget.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/skin/classic/icon-analyticsselector-widget.png
+Found resource file: :/images/skin/classic/icon-balance.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/skin/classic/icon-balance.png
+Found resource file: :/images/skin/classic/icon-battlelist-druid.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/skin/classic/icon-battlelist-druid.png
+Found resource file: :/images/skin/classic/icon-battlelist-knight.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/skin/classic/icon-battlelist-knight.png
+Found resource file: :/images/skin/classic/icon-battlelist-monster.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/skin/classic/icon-battlelist-monster.png
+Found resource file: :/images/skin/classic/icon-battlelist-npc.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/skin/classic/icon-battlelist-npc.png
+Found resource file: :/images/skin/classic/icon-battlelist-own-guild.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/skin/classic/icon-battlelist-own-guild.png
+Found resource file: :/images/skin/classic/icon-battlelist-paladin.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/skin/classic/icon-battlelist-paladin.png
+Found resource file: :/images/skin/classic/icon-battlelist-party-widget.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/skin/classic/icon-battlelist-party-widget.png
+Found resource file: :/images/skin/classic/icon-battlelist-party.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/skin/classic/icon-battlelist-party.png
+Found resource file: :/images/skin/classic/icon-battlelist-players.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/skin/classic/icon-battlelist-players.png
+Found resource file: :/images/skin/classic/icon-battlelist-secondary-widget.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/skin/classic/icon-battlelist-secondary-widget.png
+Found resource file: :/images/skin/classic/icon-battlelist-skull.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/skin/classic/icon-battlelist-skull.png
+Found resource file: :/images/skin/classic/icon-battlelist-sorcerer.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/skin/classic/icon-battlelist-sorcerer.png
+Found resource file: :/images/skin/classic/icon-battlelist-summon.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/skin/classic/icon-battlelist-summon.png
+Found resource file: :/images/skin/classic/icon-battlelist.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/skin/classic/icon-battlelist.png
+Found resource file: :/images/skin/classic/icon-bestiarytracker-widget.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/skin/classic/icon-bestiarytracker-widget.png
+Found resource file: :/images/skin/classic/icon-bestiarytracker.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/skin/classic/icon-bestiarytracker.png
+Found resource file: :/images/skin/classic/icon-bosstiarytracker-widget.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/skin/classic/icon-bosstiarytracker-widget.png
+Found resource file: :/images/skin/classic/icon-bosstiarytracker.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/skin/classic/icon-bosstiarytracker.png
+Found resource file: :/images/skin/classic/icon-bosstracker-widget.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/skin/classic/icon-bosstracker-widget.png
+Found resource file: :/images/skin/classic/icon-crownsetoutfit.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/skin/classic/icon-crownsetoutfit.png
+Found resource file: :/images/skin/classic/icon-damage.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/skin/classic/icon-damage.png
+Found resource file: :/images/skin/classic/icon-defensiveanalyser-widget.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/skin/classic/icon-defensiveanalyser-widget.png
+Found resource file: :/images/skin/classic/icon-goldenoutfit.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/skin/classic/icon-goldenoutfit.png
+Found resource file: :/images/skin/classic/icon-healing.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/skin/classic/icon-healing.png
+Found resource file: :/images/skin/classic/icon-huntingsessionanalyser-widget.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/skin/classic/icon-huntingsessionanalyser-widget.png
+Found resource file: :/images/skin/classic/icon-imbuementtracker-button.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/skin/classic/icon-imbuementtracker-button.png
+Found resource file: :/images/skin/classic/icon-imbuementtracker-widget.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/skin/classic/icon-imbuementtracker-widget.png
+Found resource file: :/images/skin/classic/icon-impactanalyser-widget.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/skin/classic/icon-impactanalyser-widget.png
+Found resource file: :/images/skin/classic/icon-left-arrow.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/skin/classic/icon-left-arrow.png
+Found resource file: :/images/skin/classic/icon-lenshelp.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/skin/classic/icon-lenshelp.png
+Found resource file: :/images/skin/classic/icon-lootanalyser-widget.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/skin/classic/icon-lootanalyser-widget.png
+Found resource file: :/images/skin/classic/icon-loottracker-widget.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/skin/classic/icon-loottracker-widget.png
+Found resource file: :/images/skin/classic/icon-partyhunt-widget.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/skin/classic/icon-partyhunt-widget.png
+Found resource file: :/images/skin/classic/icon-playerguide-widget.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/skin/classic/icon-playerguide-widget.png
+Found resource file: :/images/skin/classic/icon-playerguidewidget-button.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/skin/classic/icon-playerguidewidget-button.png
+Found resource file: :/images/skin/classic/icon-prey-widget.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/skin/classic/icon-prey-widget.png
+Found resource file: :/images/skin/classic/icon-preydialogue.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/skin/classic/icon-preydialogue.png
+Found resource file: :/images/skin/classic/icon-progressanalyser-widget.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/skin/classic/icon-progressanalyser-widget.png
+Found resource file: :/images/skin/classic/icon-questtracker-widget.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/skin/classic/icon-questtracker-widget.png
+Found resource file: :/images/skin/classic/icon-questtracker.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/skin/classic/icon-questtracker.png
+Found resource file: :/images/skin/classic/icon-right-arrow.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/skin/classic/icon-right-arrow.png
+Found resource file: :/images/skin/classic/icon-skills-widget.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/skin/classic/icon-skills-widget.png
+Found resource file: :/images/skin/classic/icon-skillwheeldialog.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/skin/classic/icon-skillwheeldialog.png
+Found resource file: :/images/skin/classic/icon-spell-list-widget.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/skin/classic/icon-spell-list-widget.png
+Found resource file: :/images/skin/classic/icon-trade.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/skin/classic/icon-trade.png
+Found resource file: :/images/skin/classic/icon-transfercoins.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/skin/classic/icon-transfercoins.png
+Found resource file: :/images/skin/classic/icon-unjustified-points-widget.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/skin/classic/icon-unjustified-points-widget.png
+Found resource file: :/images/skin/classic/icon-vip-widget.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/skin/classic/icon-vip-widget.png
+Found resource file: :/images/skin/classic/icon-wasteanalyser-widget.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/skin/classic/icon-wasteanalyser-widget.png
+Found resource file: :/images/skin/classic/indicator-arrowright.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/skin/classic/indicator-arrowright.png
+Found resource file: :/images/skin/classic/max-button-small-down.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/skin/classic/max-button-small-down.png
+Found resource file: :/images/skin/classic/max-button-small-highlight-down.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/skin/classic/max-button-small-highlight-down.png
+Found resource file: :/images/skin/classic/max-button-small-highlight-up.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/skin/classic/max-button-small-highlight-up.png
+Found resource file: :/images/skin/classic/max-button-small-up.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/skin/classic/max-button-small-up.png
+Found resource file: :/images/skin/classic/min-button-small-down.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/skin/classic/min-button-small-down.png
+Found resource file: :/images/skin/classic/min-button-small-up.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/skin/classic/min-button-small-up.png
+Found resource file: :/images/skin/classic/pic-premium.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/skin/classic/pic-premium.png
+Found resource file: :/images/skin/classic/progress-bar-empty.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/skin/classic/progress-bar-empty.png
+Found resource file: :/images/skin/classic/progress-bar-full.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/skin/classic/progress-bar-full.png
+Found resource file: :/images/skin/classic/radiobutton-checked-disabled.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/skin/classic/radiobutton-checked-disabled.png
+Found resource file: :/images/skin/classic/radiobutton-checked.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/skin/classic/radiobutton-checked.png
+Found resource file: :/images/skin/classic/radiobutton-unchecked.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/skin/classic/radiobutton-unchecked.png
+Found resource file: :/images/skin/classic/scrollbar-buttondown-down.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/skin/classic/scrollbar-buttondown-down.png
+Found resource file: :/images/skin/classic/scrollbar-buttondown-up.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/skin/classic/scrollbar-buttondown-up.png
+Found resource file: :/images/skin/classic/scrollbar-buttonleft-down.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/skin/classic/scrollbar-buttonleft-down.png
+Found resource file: :/images/skin/classic/scrollbar-buttonleft-up.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/skin/classic/scrollbar-buttonleft-up.png
+Found resource file: :/images/skin/classic/scrollbar-buttonright-down.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/skin/classic/scrollbar-buttonright-down.png
+Found resource file: :/images/skin/classic/scrollbar-buttonright-up.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/skin/classic/scrollbar-buttonright-up.png
+Found resource file: :/images/skin/classic/scrollbar-buttonup-down.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/skin/classic/scrollbar-buttonup-down.png
+Found resource file: :/images/skin/classic/scrollbar-buttonup-up.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/skin/classic/scrollbar-buttonup-up.png
+Found resource file: :/images/skin/classic/scrollbar-handle-horizontal.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/skin/classic/scrollbar-handle-horizontal.png
+Found resource file: :/images/skin/classic/scrollbar-handle-vertical.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/skin/classic/scrollbar-handle-vertical.png
+Found resource file: :/images/skin/classic/scrollbar-texture-horizontal.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/skin/classic/scrollbar-texture-horizontal.png
+Found resource file: :/images/skin/classic/scrollbar-texture-vertical.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/skin/classic/scrollbar-texture-vertical.png
+Found resource file: :/images/skin/classic/show-gui-help-grey.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/skin/classic/show-gui-help-grey.png
+Found resource file: :/images/skin/classic/show-gui-help-orange.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/skin/classic/show-gui-help-orange.png
+Found resource file: :/images/skin/classic/show-gui-help-red.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/skin/classic/show-gui-help-red.png
+Found resource file: :/images/skin/classic/slider-buttonleft-down.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/skin/classic/slider-buttonleft-down.png
+Found resource file: :/images/skin/classic/slider-buttonleft-up.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/skin/classic/slider-buttonleft-up.png
+Found resource file: :/images/skin/classic/slider-buttonright-down.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/skin/classic/slider-buttonright-down.png
+Found resource file: :/images/skin/classic/slider-buttonright-up.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/skin/classic/slider-buttonright-up.png
+Found resource file: :/images/skin/classic/slider-texture.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/skin/classic/slider-texture.png
+Found resource file: :/images/skin/classic/unjustified-points-bar-background.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/skin/classic/unjustified-points-bar-background.png
+Found resource file: :/images/skin/classic/unjustified-points-bar-texture-green.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/skin/classic/unjustified-points-bar-texture-green.png
+Found resource file: :/images/skin/classic/unjustified-points-bar-texture-red.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/skin/classic/unjustified-points-bar-texture-red.png
+Found resource file: :/images/skin/classic/unjustified-points-bar-texture-yellow.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/skin/classic/unjustified-points-bar-texture-yellow.png
+Found resource file: :/images/skin/classic/unjustified-points-skull-dent.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/skin/classic/unjustified-points-skull-dent.png
+Found resource file: :/images/skin/classic/vertical-line-bright.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/skin/classic/vertical-line-bright.png
+Found resource file: :/images/skin/classic/vertical-line-dark.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/skin/classic/vertical-line-dark.png
+Found resource file: :/images/skin/classic/warning-triangle.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/skin/classic/warning-triangle.png
+Found resource file: :/images/skin/classic/widget-borderimage.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/skin/classic/widget-borderimage.png
+Found resource folder: social
+Create folder: ./qresource/res/graphics_resources.rcc/images/social/
+Found resource file: :/images/social/friend-badge-icons.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/social/friend-badge-icons.png
+Found resource file: :/images/social/friend-badge-locked.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/social/friend-badge-locked.png
+Found resource file: :/images/social/icon-createpartygroup.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/social/icon-createpartygroup.png
+Found resource file: :/images/social/icon-findpartygroup.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/social/icon-findpartygroup.png
+Found resource file: :/images/social/icon-friends-accountsearch.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/social/icon-friends-accountsearch.png
+Found resource file: :/images/social/icon-friends-badges.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/social/icon-friends-badges.png
+Found resource file: :/images/social/icon-friends-configuration.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/social/icon-friends-configuration.png
+Found resource file: :/images/social/icon-friends-friendlist.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/social/icon-friends-friendlist.png
+Found resource file: :/images/social/icon-friends-invites.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/social/icon-friends-invites.png
+Found resource folder: spells
+Create folder: ./qresource/res/graphics_resources.rcc/images/spells/
+Found resource file: :/images/spells/action-bar-cooldown.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/spells/action-bar-cooldown.png
+Found resource file: :/images/spells/spell-icons-20x20.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/spells/spell-icons-20x20.png
+Found resource file: :/images/spells/spell-icons-32x32.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/spells/spell-icons-32x32.png
+Found resource file: :/images/spells/spellgroup-icons-20x20.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/spells/spellgroup-icons-20x20.png
+Found resource folder: tutorial
+Create folder: ./qresource/res/graphics_resources.rcc/images/tutorial/
+Found resource file: :/images/tutorial/backdrop_combat.jpg
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/tutorial/backdrop_combat.jpg
+Found resource file: :/images/tutorial/backdrop_crest.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/tutorial/backdrop_crest.png
+Found resource file: :/images/tutorial/backdrop_druid.jpg
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/tutorial/backdrop_druid.jpg
+Found resource file: :/images/tutorial/backdrop_knight.jpg
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/tutorial/backdrop_knight.jpg
+Found resource file: :/images/tutorial/backdrop_loot.jpg
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/tutorial/backdrop_loot.jpg
+Found resource file: :/images/tutorial/backdrop_paladin.jpg
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/tutorial/backdrop_paladin.jpg
+Found resource file: :/images/tutorial/backdrop_popup_depot.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/tutorial/backdrop_popup_depot.png
+Found resource file: :/images/tutorial/backdrop_popup_level10.jpg
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/tutorial/backdrop_popup_level10.jpg
+Found resource file: :/images/tutorial/backdrop_popup_level20.jpg
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/tutorial/backdrop_popup_level20.jpg
+Found resource file: :/images/tutorial/backdrop_popup_market.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/tutorial/backdrop_popup_market.png
+Found resource file: :/images/tutorial/backdrop_popup_supplystash.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/tutorial/backdrop_popup_supplystash.png
+Found resource file: :/images/tutorial/backdrop_sorcerer.jpg
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/tutorial/backdrop_sorcerer.jpg
+Found resource file: :/images/tutorial/backdrop_vocations.jpg
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/tutorial/backdrop_vocations.jpg
+Found resource file: :/images/tutorial/banner_combat_01.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/tutorial/banner_combat_01.png
+Found resource file: :/images/tutorial/banner_combat_02.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/tutorial/banner_combat_02.png
+Found resource file: :/images/tutorial/banner_combat_03.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/tutorial/banner_combat_03.png
+Found resource file: :/images/tutorial/banner_loot_01.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/tutorial/banner_loot_01.png
+Found resource file: :/images/tutorial/banner_loot_02.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/tutorial/banner_loot_02.png
+Found resource file: :/images/tutorial/banner_loot_03.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/tutorial/banner_loot_03.png
+Found resource file: :/images/tutorial/banner_tutorialpopup01.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/tutorial/banner_tutorialpopup01.png
+Found resource file: :/images/tutorial/banner_tutorialpopup_level10.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/tutorial/banner_tutorialpopup_level10.png
+Found resource file: :/images/tutorial/banner_tutorialpopup_level20.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/tutorial/banner_tutorialpopup_level20.png
+Found resource file: :/images/tutorial/banner_tutorialpopup_level9.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/tutorial/banner_tutorialpopup_level9.png
+Found resource file: :/images/tutorial/banner_vocation_druid.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/tutorial/banner_vocation_druid.png
+Found resource file: :/images/tutorial/banner_vocation_knight.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/tutorial/banner_vocation_knight.png
+Found resource file: :/images/tutorial/banner_vocation_paladin.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/tutorial/banner_vocation_paladin.png
+Found resource file: :/images/tutorial/banner_vocation_sorcerer.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/tutorial/banner_vocation_sorcerer.png
+Found resource file: :/images/tutorial/hint_01_alternativecontrols.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/tutorial/hint_01_alternativecontrols.png
+Found resource file: :/images/tutorial/hint_03_vocationknight.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/tutorial/hint_03_vocationknight.png
+Found resource file: :/images/tutorial/hint_04_vocationpaladin.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/tutorial/hint_04_vocationpaladin.png
+Found resource file: :/images/tutorial/hint_05_vocationsorcerer.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/tutorial/hint_05_vocationsorcerer.png
+Found resource file: :/images/tutorial/hint_06_vocationdruid.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/tutorial/hint_06_vocationdruid.png
+Found resource file: :/images/tutorial/hint_07_arrivalmainknight.jpg
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/tutorial/hint_07_arrivalmainknight.jpg
+Found resource file: :/images/tutorial/hint_08_arrivalmainpaladin.jpg
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/tutorial/hint_08_arrivalmainpaladin.jpg
+Found resource file: :/images/tutorial/hint_09_arrivalmainsorcerer.jpg
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/tutorial/hint_09_arrivalmainsorcerer.jpg
+Found resource file: :/images/tutorial/hint_10_arrivalmaindruid.jpg
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/tutorial/hint_10_arrivalmaindruid.jpg
+Found resource file: :/images/tutorial/tutorial-mouse-hint-icons.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/images/tutorial/tutorial-mouse-hint-icons.png
+Found resource folder: minimap
+Create folder: ./qresource/res/graphics_resources.rcc/minimap/
+Found resource folder: default
+Create folder: ./qresource/res/graphics_resources.rcc/minimap/default/
+Found resource file: :/minimap/default/Minimap_Color_32256_32000_7.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/minimap/default/Minimap_Color_32256_32000_7.png
+Found resource file: :/minimap/default/Minimap_Color_32256_32256_7.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/minimap/default/Minimap_Color_32256_32256_7.png
+Found resource file: :/minimap/default/Minimap_WaypointCost_32256_32000_7.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/minimap/default/Minimap_WaypointCost_32256_32000_7.png
+Found resource file: :/minimap/default/Minimap_WaypointCost_32256_32256_7.png
+Resource restored to file: ./qresource/res/graphics_resources.rcc/minimap/default/Minimap_WaypointCost_32256_32256_7.png
+Found resource folder: sounds
+Create folder: ./qresource/res/graphics_resources.rcc/sounds/
+Found resource file: :/sounds/empty.wav
+Resource restored to file: ./qresource/res/graphics_resources.rcc/sounds/empty.wav
+Found resource folder: tutorial
+Create folder: ./qresource/res/graphics_resources.rcc/tutorial/
+Found resource file: :/tutorial/clientoptions.json
+Resource restored to file: ./qresource/res/graphics_resources.rcc/tutorial/clientoptions.json
+Found resource file: :/tutorial/tutorial-catalog.json
+Resource restored to file: ./qresource/res/graphics_resources.rcc/tutorial/tutorial-catalog.json
+Found resource file: :/tutorial/tutorial-sessiondump.dmp
+Resource restored to file: ./qresource/res/graphics_resources.rcc/tutorial/tutorial-sessiondump.dmp
+Found resource file: :/tutorial/tutorial-sessiondump.hints
+Resource restored to file: ./qresource/res/graphics_resources.rcc/tutorial/tutorial-sessiondump.hints
