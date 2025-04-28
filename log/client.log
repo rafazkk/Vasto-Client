@@ -8077,3 +8077,13 @@ You must not let any exception whatsoever propagate through Qt code.
 [ 2025-04-28 12:21:42,543 ] Asset loading complete
 [ 2025-04-28 12:21:43,216 ] QObject: Cannot create children for a parent that is in a different thread.
 (Parent is QQmlEngine(0x21632bf61b0), parent's thread is QThread(0x2162fae2780), current thread is QSGRenderThread(0x2163fdcd430)
+[ 2025-04-28 12:35:26,957 ] Warning: Setting a new default format with a different version or profile after the global shared context is created may cause issues with context sharing.
+[ 2025-04-28 12:35:27,106 ] Using spritesheet cache size of 910
+[ 2025-04-28 12:35:27,916 ] Asset loading complete
+[ 2025-04-28 12:35:28,602 ] QObject: Cannot create children for a parent that is in a different thread.
+(Parent is QQmlEngine(0x17d24229290), parent's thread is QThread(0x17d21120670), current thread is QSGRenderThread(0x17d22e0fd30)
+[ 2025-04-28 12:35:45,274 ] Warning: Setting a new default format with a different version or profile after the global shared context is created may cause issues with context sharing.
+[ 2025-04-28 12:35:45,414 ] Using spritesheet cache size of 910
+[ 2025-04-28 12:35:46,206 ] Asset loading complete
+[ 2025-04-28 12:35:46,829 ] QObject: Cannot create children for a parent that is in a different thread.
+(Parent is QQmlEngine(0x22cab05cf50), parent's thread is QThread(0x22ca287a670), current thread is QSGRenderThread(0x22caad64b60)
