@@ -12,18 +12,11 @@ NOTE: Set it to "false" or only "" to not use the client folder, so everything w
 	"clientVersion": "14.05.70ce66",
 	"launcherVersion": "2.1",
 	"replaceFolders": true,
-	"replaceFolderName": [
-		{
-			"name": "assets"
-		},
-		{
-			"name": "storeimages"
-		},
-		{
-			"name": "bin"
-		}
+	"folders": [
+		{ "name": "assets" },
+		{ "name": "storeimages" },
+		{ "name": "bin" }
 	],
 	"clientFolder": "Tibia",
-	"newClientUrl" : "https://github.com/rafazkk/Vasto-Client/archive/refs/heads/main.zip",
-	"clientExecutable": "client.exe"
-}
+	"newClientUrl": "https://github.com/rafazkk/Vasto-Client/archive/refs/heads/main.zip",
+	"
