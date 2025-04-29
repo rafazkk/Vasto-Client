@@ -1,0 +1,14 @@
+ABAIXO O PASSO A PASSO PARA SALVAR SUAS HOTKEYS NESSE CLIENT NOVO.
+LEIA O PASSO A PASSO E TAMBÉM TEMOS AS FOTOS ILUSTRANDO COMO FAZER.
+
+Passo 1. = Imagem 1
+- Abra as opções dentro do seu client ANTIGO, selecione as "Advanced Options"
+- Vá até a opção "Misc." e abra "Help"
+- Clique em "Export All Options"
+- Salve no seu computador com um nome e local fácil de encontrar
+
+Passo 2. = Imagem 2
+- Abra as opções dentro do seu client NOVO, selecione as "Advanced Options"
+- Vá até a opção "Misc." e abra "Help"
+- Clique em "Import Options/Minimap"
+- Vá no destino que salvou o arquivo anterior e dê load
